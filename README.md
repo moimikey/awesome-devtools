@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 * [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 * [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
+* [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 
 ### Deobfuscation
 * [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
