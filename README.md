@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
-
+* [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 
 ## Resources
 
