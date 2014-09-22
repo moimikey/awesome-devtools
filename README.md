@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 * [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
+* [RequireBin](http://requirebin.com/) - Run/debug your node.js in a sandboxed environment
 
 ## Resources
 
@@ -54,6 +55,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Easings & Animations
 * [Ceaser](http://matthewlein.com/ceaser/)
+
+### Proxy as a Service
+* [CORS Anywhere](https://cors-anywhere.herokuapp.com/) - Proxies any HTTP request through a CORS enabled environment.
 
 ## License
 
