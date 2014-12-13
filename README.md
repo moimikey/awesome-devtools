@@ -26,7 +26,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 * [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
+
+### Playgrounds / REPL
+* [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
+* [Sassmeister](http://sassmeister.com/) - Sass <-> CSS
 * [RequireBin](http://requirebin.com/) - Run/debug your node.js in a sandboxed environment
+* [codepen](http://codepen.io/) - JS/Coffee/Traceur/Live/HTML/Slim/Jade/Markdown/HAML/CSS/Sass/LESS/Stylus
+* [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/6to5/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
 
 ## Resources
 
@@ -40,6 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CSS Inliners
 * [Campaign Monitor](http://inliner.cm/)
 * [MailChimp](http://templates.mailchimp.com/resources/inline-css/)
+
+### CSS Post Processors
+* [Pleeease](http://pleeease.io/play/)
 
 ### Glyphs & Icons
 * [Copy/Paste Character](http://copypastecharacter.com/)
