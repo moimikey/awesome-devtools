@@ -34,6 +34,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [codepen](http://codepen.io/) - JS/Coffee/Traceur/Live/HTML/Slim/Jade/Markdown/HAML/CSS/Sass/LESS/Stylus
 * [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/6to5/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
 
+### Image
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+
 ## Resources
 
 ### Browser Information
