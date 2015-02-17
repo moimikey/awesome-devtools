@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Deobfuscation
 * [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
+* [FESS](http://www.fess.me/) - Simply expands short-hand CSS property values.
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
