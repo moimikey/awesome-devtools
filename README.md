@@ -1,6 +1,6 @@
 # Awesome Developer Tools
 
-> A curated list of in-browser [bookmarklets](#bookmarklets), [tools](#tools), and [resources](#resources) for front-end devs.
+> A curated list of in-browser [bookmarklets](#bookmarklets), [tools](#tools), and [resources](#resources) for modern full-stack software engineers.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
