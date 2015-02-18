@@ -30,10 +30,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Playgrounds / REPL
 * [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
-* [Sassmeister](http://sassmeister.com/) - Sass <-> CSS
+* [Sassmeister](http://sassmeister.com/) - Sass/Scss <-> CSS
 * [RequireBin](http://requirebin.com/) - Run/debug your node.js in a sandboxed environment
 * [codepen](http://codepen.io/) - JS/Coffee/Traceur/Live/HTML/Slim/Jade/Markdown/HAML/CSS/Sass/LESS/Stylus
-* [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/6to5/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
+* [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/Babel/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
 * [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
 
 ### Image
