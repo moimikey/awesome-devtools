@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [RequireBin](http://requirebin.com/) - Run/debug your node.js in a sandboxed environment
 * [codepen](http://codepen.io/) - JS/Coffee/Traceur/Live/HTML/Slim/Jade/Markdown/HAML/CSS/Sass/LESS/Stylus
 * [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/6to5/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
+* [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
 
 ### Image
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
