@@ -20,9 +20,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
 * [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 
-### Deobfuscation
+### Deobfuscation/Transformation
 * [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 * [FESS](http://www.fess.me/) - Simply expands short-hand CSS property values.
+* [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
