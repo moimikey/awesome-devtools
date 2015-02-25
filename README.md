@@ -28,6 +28,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 * [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
+* [Request Bin](http://requestb.in/) - Debug HTTP requests.
+* [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 
 ### Playgrounds / REPL
 * [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
@@ -36,9 +38,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [codepen](http://codepen.io/) - JS/Coffee/Traceur/Live/HTML/Slim/Jade/Markdown/HAML/CSS/Sass/LESS/Stylus
 * [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/Babel/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
 * [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
+* [Repl.it](http://repl.it/) - Python/Ruby/Scheme/Lua/Java/QBasic/Forth/APL/PHP/Go/Emoticon/BrainFuck/LOLCODE/Unlambda/Bloop/JavaScript/ES6/Move/Kaffeine/CoffeeScript/Roy
 
 ### Image
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+* [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 
 ## Resources
 
