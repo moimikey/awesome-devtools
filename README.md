@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Open JSON
 * [FreeGeoIP](http://freegeoip.net/json/127.0.0.1) - IP to Geo
 * [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
+* [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
 
 ### CSS Inliners
 * [Campaign Monitor](http://inliner.cm/)
