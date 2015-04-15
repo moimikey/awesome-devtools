@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 * [Request Bin](http://requestb.in/) - Debug HTTP requests.
 * [httpbin](http://httpbin.org/) - HTTP Request & Response service.
+* [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
 
 ### Playgrounds / REPL
 * [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
