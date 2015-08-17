@@ -45,6 +45,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
 * [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 
+### Generators
+* [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
+
 ## Resources
 
 ### Browser Information
