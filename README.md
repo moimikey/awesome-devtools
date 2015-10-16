@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Copy/Paste Character](http://copypastecharacter.com/)
 * [Icon Finder](https://www.iconfinder.com/)
 * [Icon Monstr](http://iconmonstr.com/)
+* [Entity Lookup](http://entity-lookup.leftlogic.com)
 
 ### Compatability
 * [ES6](http://kangax.github.io/compat-table/es6/) 
