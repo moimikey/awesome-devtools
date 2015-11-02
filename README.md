@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Request Bin](http://requestb.in/) - Debug HTTP requests.
 * [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 * [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
+* [Hook.io](https://hook.io/) - Instantly deploy microservices in over 11+ languages (OSS!)
 
 ### Playgrounds / REPL
 * [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
