@@ -74,7 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Entity Lookup](http://entity-lookup.leftlogic.com)
 
 ### Compatability
-* [ES6](http://kangax.github.io/compat-table/es6/) 
+* [ES6](http://kangax.github.io/compat-table/es6/)
 * [HTML5](http://html5please.com/)
 
 ### Responsiveness
@@ -85,6 +85,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Proxy as a Service
 * [CORS Anywhere](https://cors-anywhere.herokuapp.com/) - Proxies any HTTP request through a CORS enabled environment.
+
+### Documentation
+* [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
 
 ## License
 
