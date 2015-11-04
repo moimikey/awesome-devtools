@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 * [FESS](http://www.fess.me/) - Simply expands short-hand CSS property values.
 * [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
+* [Babel](https://babeljs.io/repl/) - Transpile and optionally evaluate ES2015 to ES5
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
@@ -41,7 +42,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/Babel/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
 * [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
 * [Repl.it](http://repl.it/) - Python/Ruby/Scheme/Lua/Java/QBasic/Forth/APL/PHP/Go/Emoticon/BrainFuck/LOLCODE/Unlambda/Bloop/JavaScript/ES6/Move/Kaffeine/CoffeeScript/Roy
-* [Babel](https://babeljs.io/repl/) - JS (ES201*)
 
 ### Image
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
