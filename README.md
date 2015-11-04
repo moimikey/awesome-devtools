@@ -86,6 +86,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Proxy as a Service
 * [CORS Anywhere](https://cors-anywhere.herokuapp.com/) - Proxies any HTTP request through a CORS enabled environment.
 
+### Documentation, Specifications & 
+* [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
