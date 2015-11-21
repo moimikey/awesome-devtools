@@ -71,7 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Copy/Paste Character](http://copypastecharacter.com/)
 * [Icon Finder](https://www.iconfinder.com/)
 * [Icon Monstr](http://iconmonstr.com/)
-* [Entity Lookup](http://entity-lookup.leftlogic.com)
+* [Entity Lookup](http://entity-lookup.leftlogic.com/)
 
 ### Compatability
 * [ES6](http://kangax.github.io/compat-table/es6/)
@@ -88,6 +88,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Documentation
 * [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
+
+## The Outside World
+
+### Swag
+* [DevSwag](http://devswag.com/)
+* [DevStickers](http://devstickers.com/)
+* [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
+* [ThinkGeek](http://thinkgeek.com/)
 
 ## License
 
