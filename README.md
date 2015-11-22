@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [FESS](http://www.fess.me/) - Simply expands short-hand CSS property values.
 * [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 * [Babel](https://babeljs.io/repl/) - Transpile and optionally evaluate ES2015 to ES5
+* [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
