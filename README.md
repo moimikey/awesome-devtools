@@ -95,6 +95,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Documentation
 * [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
 
+### Security/SSL
+* [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
+
 ## The Outside World
 
 ### Swag
