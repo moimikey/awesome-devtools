@@ -33,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
+* [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 * [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 * [Request Bin](http://requestb.in/) - Debug HTTP requests.
 * [httpbin](http://httpbin.org/) - HTTP Request & Response service.
