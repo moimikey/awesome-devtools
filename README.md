@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 * [CSS Stress Test](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
 * [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
+* [Ramda](https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md) - Add Ramda to any page!
 
 ## Tools
 
