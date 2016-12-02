@@ -59,6 +59,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Generators
 * [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
 
+### File Sharing
+* [file.io](https://www.file.io/) - Ephemeral file sharing. Convenient, anonymous and secure.
+* [cURL.io](https://curl.io/) - Share your files from your Terminal
+* [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
+
 ## Resources
 
 ### Browser Information
