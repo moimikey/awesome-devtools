@@ -45,12 +45,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
 * [Sassmeister](http://sassmeister.com/) - Sass/Scss <-> CSS
 * [RequireBin](http://requirebin.com/) - Run/debug your node.js in a sandboxed environment
-* [ES.nextBin](http://esnextb.in/) - Like RequireBin but Es2015
+* [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
 * [WebpackBin](http://www.webpackbin.com/) - Sandboxed Webpack environment
-* [codepen](http://codepen.io/) - JS/Coffee/Traceur/Live/HTML/Slim/Jade/Markdown/HAML/CSS/Sass/LESS/Stylus
-* [JSBin](http://jsbin.com/) - JS/Coffee/Traceur/Babel/Live/JSX/HTML/Markdown/Jade/CSS/Stylus/LESS/Sass
+* [codepen](http://codepen.io/) - JS/Coffee/Babel/Live/HTML/Slim/Pug/Markdown/HAML/CSS/Sass/LESS/Stylus
+* [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 * [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
 * [Repl.it](http://repl.it/) - Python/Ruby/Scheme/Lua/Java/QBasic/Forth/APL/PHP/Go/Emoticon/BrainFuck/LOLCODE/Unlambda/Bloop/JavaScript/ES6/Move/Kaffeine/CoffeeScript/Roy
+* [playcode.io](https://playcode.io/) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
 
 ### Image
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
