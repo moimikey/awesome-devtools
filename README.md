@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 * [Babel](https://babeljs.io/repl/) - Transpile and optionally evaluate ES2015 to ES5
 * [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
+* [Lebab](https://lebab.io/try-it/) - Lebab transpiles your ES5 code to ES2015+
 
 ### Debugging
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
