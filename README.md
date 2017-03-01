@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
 * [Repl.it](http://repl.it/) - Python/Ruby/Scheme/Lua/Java/QBasic/Forth/APL/PHP/Go/Emoticon/BrainFuck/LOLCODE/Unlambda/Bloop/JavaScript/ES6/Move/Kaffeine/CoffeeScript/Roy
 * [playcode.io](https://playcode.io/) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
+* [Ellie](https://ellie-app.com/) - The Elm Live Editor
 
 ### Image
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
