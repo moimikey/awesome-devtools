@@ -40,6 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Request Bin](http://requestb.in/) - Debug HTTP requests.
 * [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 * [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
+* [Beeceptor](http://beeceptor.com/) - Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs.
 * [Hook.io](https://hook.io/) - Instantly deploy microservices in over 11+ languages (OSS!)
 
 ### Playgrounds / REPL
