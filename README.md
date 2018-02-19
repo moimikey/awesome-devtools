@@ -48,7 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Sassmeister](http://sassmeister.com/) - Sass/Scss <-> CSS
 * [RequireBin](http://requirebin.com/) - Run/debug your node.js in a sandboxed environment
 * [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
-* [WebpackBin](http://www.webpackbin.com/) - Sandboxed Webpack environment
+* [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
 * [codepen](http://codepen.io/) - JS/Coffee/Babel/Live/HTML/Slim/Pug/Markdown/HAML/CSS/Sass/LESS/Stylus
 * [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 * [VCLFiddle](http://www.vclfiddle.net/) - Sandboxed Varnish Cache
