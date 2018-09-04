@@ -44,6 +44,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Request Bin](http://requestb.in/) - Debug HTTP requests.
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 
+### Diffing
+* [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) - Run a visual or non-visual diff on two JSON blobs.
+
 ### Playgrounds / REPL
 * [codepen](http://codepen.io/) - JS/Coffee/Babel/Live/HTML/Slim/Pug/Markdown/HAML/CSS/Sass/LESS/Stylus
 * [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
