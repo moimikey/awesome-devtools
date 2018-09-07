@@ -76,6 +76,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [instant.io](https://instant.io/) - Instant file transfer/sharing over WebTorrent
 * [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 
+### Website Auditors
+
+* [Checkbot](https://www.checkbot.io/) - Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Crawls your site checking multiple pages at once.
+
 ## Resources
 
 ### Browser Information
@@ -118,6 +122,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Security/SSL
 * [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
 * [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
+
+### Web Best Practices
+
+* [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - Details 50+ SEO, speed and security web best practices.
 
 ## The Outside World
 
