@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 * [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
+* [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 
 ### Diffing
 * [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) - Run a visual or non-visual diff on two JSON blobs.
