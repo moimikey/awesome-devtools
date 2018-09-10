@@ -41,7 +41,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [jsonbin](https://jsonbin.io/) - Custom, mock JSON API
 * [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 * [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
-* [Request Bin](http://requestb.in/) - Debug HTTP requests.
 * [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 
 ### Diffing
