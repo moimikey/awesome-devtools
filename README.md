@@ -120,6 +120,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
 * [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 
+### Validation as a Service
+* [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
+
 ## The Outside World
 
 ### Swag
