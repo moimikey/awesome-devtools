@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Regex
 * [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
+* [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 * [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
 * [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 * [Regexr](http://www.regexr.com/) - JavaScript regex matching.
