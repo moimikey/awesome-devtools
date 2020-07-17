@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
 - [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
+- [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 
 ### Diffing
 
