@@ -109,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entity Lookup](http://entity-lookup.leftlogic.com/)
 - [Icon Finder](https://www.iconfinder.com/)
 - [Icon Monstr](http://iconmonstr.com/)
+- [Tabler Icons](https://tablericons.com/)
 
 ### Compatability
 
