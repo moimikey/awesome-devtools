@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Babel](https://babeljs.io/en/repl) - Transpile and optionally evaluate ES2015 to ES5
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
+- [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 
 ### Debugging
 
