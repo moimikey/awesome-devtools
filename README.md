@@ -132,6 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Documentation
 
 - [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
+- [ExplainShell](https://explainshell.com/explain?cmd=ls+-lisah) - A better way to read MAN pages.
 
 ### Security/SSL
 
@@ -149,7 +150,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DevStickers](http://devstickers.com/)
 - [DevSwag](http://devswag.com/)
 - [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
-- [ThinkGeek](http://thinkgeek.com/)
 
 ## License
 
