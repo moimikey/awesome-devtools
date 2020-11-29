@@ -81,7 +81,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [file.io](https://www.file.io/) - Ephemeral file sharing. Convenient, anonymous and secure.
 - [instant.io](https://instant.io/) - Instant file transfer/sharing over WebTorrent
-- [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 
 ## Resources
 
