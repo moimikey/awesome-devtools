@@ -92,7 +92,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Open JSON
 
 - [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
-- [FreeGeoIP](http://freegeoip.net/json/127.0.0.1) - IP to Geo
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### CSS Inliners
