@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Validation as a Service
 
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 
 ## The Outside World
 
