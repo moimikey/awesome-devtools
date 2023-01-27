@@ -74,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Generators
 
 - [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
+- [Flatlogic Platform](https://flatlogic.com/crud-app) - Create full-stack CRUD web application boilerplate in minutes. Define database schema and get production-ready full-stack web app built with React, Angular or Vue.
 
 ### File Sharing
 
