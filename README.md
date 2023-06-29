@@ -45,6 +45,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 
+### Deploy
+
+- [Genzio](https://genez.io) - Service where programmers can deploy their JavaScript/TypeScript/Dart full-stack application for free using a [CLI tool](https://github.com/Genez-io/genezio).
+
 ### Diffing
 
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) - Run a visual or non-visual diff on two JSON blobs.
