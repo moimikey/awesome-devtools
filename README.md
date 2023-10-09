@@ -45,7 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 
-### Diagramming & Scratch
+### Diagramming &amp; Scratch
 
 - [asciiflow](https://asciiflow.com) - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams.
 - [dot-to-ascii](https://dot-to-ascii.ggerganov.com) - Graphviz to ASCII converter using Graph::Easy.
