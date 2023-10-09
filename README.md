@@ -121,15 +121,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CSS Post Processors
 
 - [Pleeease](http://pleeease.io/play/)
-
-### Easings & Animations
-
-- [Ceaser](http://matthewlein.com/ceaser/)
-
 ### Documentation
 
 - [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
 - [ExplainShell](https://explainshell.com/explain?cmd=ls+-lisah) - A better way to read MAN pages.
+
+### Easings & Animations
+
+- [Ceaser](http://matthewlein.com/ceaser/)
 
 ### Glyphs & Icons
 
@@ -139,6 +138,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Icon Monstr](http://iconmonstr.com/)
 - [Tabler Icons](https://tablericons.com/)
 
+### Open JSON
+
+- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
+- [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
+
 ### Proxy as a Service
 
 - [CORS Anywhere](https://cors-anywhere.herokuapp.com/) - Proxies any HTTP request through a CORS enabled environment.
@@ -146,11 +150,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Responsiveness
 
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-
-### Open JSON
-
-- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
-- [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Security/SSL
 
