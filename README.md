@@ -177,6 +177,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
 - [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 
+### Test
+
+- [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
+
 ## The Outside World
 
 ### Swag
