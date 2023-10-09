@@ -120,9 +120,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CSS Post Processors
 
 - [Pleeease](http://pleeease.io/play/)
+
 ### Documentation
 
 - [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
+- [ECMAScript Proposal Stages](https://www.proposals.es/stages)
 - [ExplainShell](https://explainshell.com/explain?cmd=ls+-lisah) - A better way to read MAN pages.
 
 ### Easings & Animations
