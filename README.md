@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dbdiagram](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly.
 - [dot-to-ascii](https://dot-to-ascii.ggerganov.com) - Graphviz to ASCII converter using Graph::Easy.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard.
+- [JSON-to-Chart](https://jsontochart.com) - Create beautiful charts from JSON data in your browser.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
 - [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
 
