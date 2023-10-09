@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Generators
 
 - [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
+- [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 
 ### File Sharing
 
