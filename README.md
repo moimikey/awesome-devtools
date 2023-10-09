@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
+- [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 
 ### Scripting
 
