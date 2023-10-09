@@ -115,6 +115,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [What's My Browser?](http://www.whatsmybrowser.org/)
 
+### Cheat Sheets
+
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - A concise collection of high value information on specific application security topics.
+
 ### Compatability
 
 - [HTML5](http://html5please.com/)
