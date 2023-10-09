@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Copy/Paste Character](http://copypastecharacter.com/)
 - [Entity Lookup](http://entity-lookup.leftlogic.com/)
+- [Icônes](https://icones.js.org/collection/all) - Over 150,000 open source vector icons.
 - [Icon Finder](https://www.iconfinder.com/)
 - [Icon Monstr](http://iconmonstr.com/)
 - [Tabler Icons](https://tablericons.com/)
