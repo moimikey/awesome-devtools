@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Diagramming
 
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
+- [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
 
 ### Regex
 
