@@ -140,7 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ceaser](http://matthewlein.com/ceaser/)
 
-### Glyphs & Icons
+### Glyphs &amp; Icons
 
 - [Copy/Paste Character](http://copypastecharacter.com/)
 - [Entity Lookup](http://entity-lookup.leftlogic.com/)
@@ -162,16 +162,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 
-### Security/SSL
 
-- [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
-- [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 
 ### Validation &amp; Parsers
 
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
+
+## Security
+
+### SSL
+
+- [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
+- [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 
 ## The Outside World
 
