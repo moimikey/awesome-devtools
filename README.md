@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [jsonbin](https://jsonbin.io/) - Custom, mock JSON API
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 - [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
 - [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
@@ -161,8 +162,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Responsiveness
 
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-
-
 
 ### Validation &amp; Parsers
 
