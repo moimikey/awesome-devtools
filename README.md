@@ -70,11 +70,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
 - [PicPerf](https://www.picperf.dev/analyze) - Boost web performance with image optimization. Analyze and improve `<img>` tags, `<style>` tags, and inline CSS.
 
-
 ### Playgrounds
 
 - [codepen](http://codepen.io/) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 - [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
+- [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
 - [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 - [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
@@ -91,7 +91,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### REPL
 
-- [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 
 ### Scripting &amp; Copy/Paste
