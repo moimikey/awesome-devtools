@@ -28,6 +28,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 
+### Scripting
+
+- [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
+
 ### Deobfuscation/Transformation
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
