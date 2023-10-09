@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
+- [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
 
 ### Diffing
 
