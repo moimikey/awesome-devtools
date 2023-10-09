@@ -83,8 +83,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image
 
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
-- [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+- [PicPerf](https://www.picperf.dev/analyze) - Boost web performance with image optimization. Analyze and improve `<img>` tags, `<style>` tags, and inline CSS.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
 
 ### Generators
 
