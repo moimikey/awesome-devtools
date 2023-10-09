@@ -24,23 +24,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Debugging &amp; Development
 
+- [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [Beeceptor](http://beeceptor.com/) - Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 - [Hook.io](https://hook.io/) - Instantly deploy microservices in over 11+ languages (OSS!)
+- [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
+- [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [jsonbin](https://jsonbin.io/) - Custom, mock JSON API
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 - [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
-- [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
-- [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
-- [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
-- [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
+- [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
+- [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 
 ### Deobfuscation &amp; Transformation
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel](https://babeljs.io/en/repl) - Transpile and optionally evaluate ES2015 to ES5
+- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
