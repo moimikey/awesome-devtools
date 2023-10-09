@@ -16,6 +16,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
+### Diagramming
+
+- [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
+
 ### Regex
 
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
