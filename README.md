@@ -97,9 +97,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 
-### Scripting
+### Scripting &amp; Copy/Paste
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
+- [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
 
 ## Resources
 
