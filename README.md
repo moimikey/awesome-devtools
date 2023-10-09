@@ -70,9 +70,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image
 
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
-- [PicPerf](https://www.picperf.dev/analyze) - Boost web performance with image optimization. Analyze and improve `<img>` tags, `<style>` tags, and inline CSS.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+- [PicPerf](https://www.picperf.dev/analyze) - Boost web performance with image optimization. Analyze and improve `<img>` tags, `<style>` tags, and inline CSS.
+
 
 ### Playgrounds
 
@@ -101,6 +102,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+
+### Presentation
+
+- [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
 
 ## Resources
 
