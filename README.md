@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
 
-### Deobfuscation/Transformation
+### Deobfuscation &amp; Transformation
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel](https://babeljs.io/en/repl) - Transpile and optionally evaluate ES2015 to ES5
