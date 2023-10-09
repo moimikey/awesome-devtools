@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
 - [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 - [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
+- [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 - [playcode.io](https://playcode.io/) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
 
 ### Regex
@@ -88,10 +89,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
-
-### REPL
-
-- [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 
 ### Scripting &amp; Copy/Paste
 
