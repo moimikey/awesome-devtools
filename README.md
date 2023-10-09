@@ -110,7 +110,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Compatability
 
-- [ES6](http://kangax.github.io/compat-table/es6/)
 - [HTML5](http://html5please.com/)
 
 ### CSS Inliners
