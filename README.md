@@ -147,7 +147,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Icon Monstr](http://iconmonstr.com/)
 - [Tabler Icons](https://tablericons.com/)
 
-### Open JSON
+### Open JSON &amp; Feeds
 
 - [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
