@@ -41,7 +41,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
-- [SWC](https://swc.rs/playground) -
+- [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
+- [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 
 ### Diagramming &amp; Scratch
 
