@@ -98,6 +98,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Scripting &amp; Copy/Paste
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
+- [CSS Scan - Box Shadows](https://getcssscan.com/css-box-shadow-examples) - CSS, Ready to use, click to copy
+- [CSS Scan - Buttons](https://getcssscan.com/css-buttons-examples) - CSS, Ready to use, click to copy
+- [CSS Scan - Checkboxes](https://getcssscan.com/css-checkboxes-examples) - CSS, Ready to use, click to copy
+- [CSS Scan - Shapes](https://getcssscan.com/css-shapes) - CSS, Ready to use, click to copy
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
 
 ### Transformation
