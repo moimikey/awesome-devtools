@@ -78,6 +78,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
 
+### Performance
+
+- [Perflink](https://perf.link) - JS benchmarks
+
 ### Playgrounds
 
 - [codepen](http://codepen.io/) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
