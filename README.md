@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CSS Stress Test](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
 - [deCSS3](https://github.com/davatron5000/deCSS3/) - A lil' bookmarklet that will strip out your CSS3 rules and show you how gracefully you're degrading.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
+- [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
 - [Ramda](https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md) - Add Ramda to any page!
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
 - [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - A browser-based tool to test any website's responsiveness.
