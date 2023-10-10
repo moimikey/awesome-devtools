@@ -179,6 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Test
 
+- [Security Headers by Probely](https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com) - An easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 - [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
 
 ## The Outside World
