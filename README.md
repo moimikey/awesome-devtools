@@ -142,6 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CDN
 
 - [Skypack](https://www.skypack.dev) - Load optimized npm packages with no install and no build tools.
+- [unpkg](https://www.unpkg.com) - Fast, global content delivery network for everything on npm.
 
 ### Cheat Sheets
 
