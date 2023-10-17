@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Image
 
+- [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
 - [PicPerf](https://www.picperf.dev/analyze) - Boost web performance with image optimization. Analyze and improve `<img>` tags, `<style>` tags, and inline CSS.
