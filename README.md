@@ -139,6 +139,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [What's My Browser?](http://www.whatsmybrowser.org/)
 
+### CDN
+
+- [Skypack](https://www.skypack.dev) - Load optimized npm packages with no install and no build tools.
+
 ### Cheat Sheets
 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - A concise collection of high value information on specific application security topics.
