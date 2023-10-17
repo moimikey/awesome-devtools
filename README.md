@@ -208,6 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
 - [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org) - SSL configuration generator for various server software and platforms.
 
 ### Test
 
