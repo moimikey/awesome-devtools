@@ -62,7 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Document &amp; Editors
 
-- [README.so](https://readme.so) - A simple editor to quickly add and customize all the sections you need for your project's readme.
+- [README.so](https://readme.so/editor) - A simple editor to quickly add and customize all the sections you need for your project's readme.
 
 ### File Sharing
 
