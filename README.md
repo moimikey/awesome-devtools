@@ -170,6 +170,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Copy/Paste Character](http://copypastecharacter.com) - Copy &amp; Paste emojis and unicode symbols
 - [CSS Icons](https://cssicon.space) - Copy &amp; Paste icons in CSS + transition animations!
 - [Entity Lookup](http://entity-lookup.leftlogic.com) - Enter any character(s) and find its corresponding HTML entity code.
+- [heroicons](https://heroicons.com) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Icon Finder](https://www.iconfinder.com) - Millions of graphics for your design projects. Created by independent designers.
 - [Icon Monstr](http://iconmonstr.com) - Discover 4000+ free icons in 300+ collections.
 - [Icônes](https://icones.js.org/collection/all) - Over 150,000 open source vector icons.
