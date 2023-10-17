@@ -40,6 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
+- [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
