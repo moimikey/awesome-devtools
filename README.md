@@ -60,6 +60,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) - Run a visual or non-visual diff on two JSON blobs.
 
+### Document &amp; Editors
+
+- [README.so](https://readme.so) - A simple editor to quickly add and customize all the sections you need for your project's readme.
+
 ### File Sharing
 
 - [file.io](https://www.file.io/) - Ephemeral file sharing. Convenient, anonymous and secure.
