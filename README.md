@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Generators
 
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
+- [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
 
