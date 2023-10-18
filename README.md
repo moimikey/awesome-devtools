@@ -114,7 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 
-### Scripting &amp; Copy/Paste
+### Copy/Paste Scripts &amp; Styles
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
 - [CSS Scan - Box Shadows](https://getcssscan.com/css-box-shadow-examples) - CSS, Ready to use, click to copy
