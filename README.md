@@ -122,6 +122,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CSS Scan - Checkboxes](https://getcssscan.com/css-checkboxes-examples) - CSS, Ready to use, click to copy
 - [CSS Scan - Shapes](https://getcssscan.com/css-shapes) - CSS, Ready to use, click to copy
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+- [transition.css](https://www.transition.style) - Drop-in CSS transitions
 
 ### Transformation
 
