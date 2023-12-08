@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [Softwium](https://softwium.com/regex-explainer/) - Regular Expression Visualizer.
 
 ### Scripting &amp; Copy/Paste
 
