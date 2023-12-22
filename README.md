@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
 - [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 - [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
+- [Winglnang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ### Deobfuscation &amp; Transformation
 
