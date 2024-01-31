@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Playgrounds
 
-- [codepen](http://codepen.io/) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+- [codepen](http://codepen.io/pen) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 - [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
 - [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
