@@ -70,6 +70,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Web-based Services
 
+### Copy/Paste Scripts &amp; Styles
+
+- [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
+- [CSS Scan - Box Shadows](https://getcssscan.com/css-box-shadow-examples) - CSS, Ready to use, click to copy
+- [CSS Scan - Buttons](https://getcssscan.com/css-buttons-examples) - CSS, Ready to use, click to copy
+- [CSS Scan - Checkboxes](https://getcssscan.com/css-checkboxes-examples) - CSS, Ready to use, click to copy
+- [CSS Scan - Shapes](https://getcssscan.com/css-shapes) - CSS, Ready to use, click to copy
+- [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+- [transition.css](https://www.transition.style) - Drop-in CSS transitions
+
 ### File Sharing
 
 - [file.io](https://www.file.io) - Ephemeral file sharing. Convenient, anonymous and secure.
@@ -95,20 +105,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
-- [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
-
-### Copy/Paste Scripts &amp; Styles
-
-- [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
-- [CSS Scan - Box Shadows](https://getcssscan.com/css-box-shadow-examples) - CSS, Ready to use, click to copy
-- [CSS Scan - Buttons](https://getcssscan.com/css-buttons-examples) - CSS, Ready to use, click to copy
-- [CSS Scan - Checkboxes](https://getcssscan.com/css-checkboxes-examples) - CSS, Ready to use, click to copy
-- [CSS Scan - Shapes](https://getcssscan.com/css-shapes) - CSS, Ready to use, click to copy
-- [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
-- [transition.css](https://www.transition.style) - Drop-in CSS transitions
 
 ### Transformation
 
