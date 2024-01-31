@@ -23,9 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
-- [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
 - [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
 - [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 - [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
@@ -135,6 +133,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
+### APIs
+
+- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
+
 ### Browser Information
 
 - [What's My Browser?](http://www.whatsmybrowser.org/)
@@ -182,11 +186,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Icon Monstr](http://iconmonstr.com) - Discover 4000+ free icons in 300+ collections.
 - [Icônes](https://icones.js.org/collection/all) - Over 150,000 open source vector icons.
 - [Tabler Icons](https://tablericons.com) - 4000+ Open source free SVG icons. Highly customizable. No attribution required. For commercial use.
-
-### Open JSON &amp; Feeds
-
-- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
-- [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Proxy as a Service
 
