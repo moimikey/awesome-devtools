@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
-- [jsonbin](https://jsonbin.io/) - Custom, mock JSON API
+- [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 - [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
