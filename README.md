@@ -17,7 +17,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Debugging &amp; Development
 
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
-- [Beeceptor](http://beeceptor.com/) - Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 - [endpoints.dev](https://www.endpoints.dev) - View realtime HTTP requests using a endpoints.dev generated URL.
 - [Hook.io](https://hook.io/) - Instantly deploy microservices in over 11+ languages (OSS!)
