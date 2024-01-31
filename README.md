@@ -157,8 +157,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CSS Inliners
 
-- [Campaign Monitor](http://inliner.cm/)
-- [MailChimp](http://templates.mailchimp.com/resources/inline-css/)
+- [Campaign Monitor](https://www.campaignmonitor.com/resources/tools/css-inliner)
+- [MailChimp](http://templates.mailchimp.com/resources/inline-css)
 
 ### Documentation
 
