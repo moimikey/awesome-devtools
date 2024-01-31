@@ -160,10 +160,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Campaign Monitor](http://inliner.cm/)
 - [MailChimp](http://templates.mailchimp.com/resources/inline-css/)
 
-### CSS Post Processors
-
-- [Pleeease](http://pleeease.io/play/)
-
 ### Documentation
 
 - [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
