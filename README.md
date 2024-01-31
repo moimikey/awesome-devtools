@@ -7,45 +7,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Bookmarklets
 
 - [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
-- [CSS Stress Test](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
-- [deCSS3](https://github.com/davatron5000/deCSS3/) - A lil' bookmarklet that will strip out your CSS3 rules and show you how gracefully you're degrading.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
-- [Ramda](https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md) - Add Ramda to any page!
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
 - [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - A browser-based tool to test any website's responsiveness.
 
-## Tools
+## Web-based Tools
 
-### Debugging &amp; Development
+### Debug JavaScript
 
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
-- [Beeceptor](http://beeceptor.com/) - Rule based API mocking service. When rules are matched, a request is mocked, else target endpoint is hit as usual. Create custom endpoints to test and debug rest APIs.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 - [endpoints.dev](https://www.endpoints.dev) - View realtime HTTP requests using a endpoints.dev generated URL.
-- [Hook.io](https://hook.io/) - Instantly deploy microservices in over 11+ languages (OSS!)
-- [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
-- [jsonbin](https://jsonbin.io/) - Custom, mock JSON API
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
-- [Mockbin](http://mockbin.com/) - Generate custom endpoints to test, mock, and track HTTP requests.
-- [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
-- [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 - [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 
-### Deobfuscation &amp; Transformation
-
-- [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
-- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
-- [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
-- [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
-- [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
-- [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
-- [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
-- [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
-- [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
+### Postman Alternatives
+- [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
+- [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
+- [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
 
 ### Diagramming &amp; Scratch
 
@@ -54,27 +37,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dot-to-ascii](https://dot-to-ascii.ggerganov.com) - Graphviz to ASCII converter using Graph::Easy.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard.
 - [JSON-to-Chart](https://jsontochart.com) - Create beautiful charts from JSON data in your browser.
+- [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
+- [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
 - [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
 
 ### Diffing
 
-- [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) - Run a visual or non-visual diff on two JSON blobs.
+- [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
 
 ### Document &amp; Editors
 
 - [README.so](https://readme.so/editor) - A simple editor to quickly add and customize all the sections you need for your project's readme.
 
-### File Sharing
-
-- [file.io](https://www.file.io/) - Ephemeral file sharing. Convenient, anonymous and secure.
-- [instant.io](https://instant.io/) - Instant file transfer/sharing over WebTorrent
-
 ### Generators
 
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
-- [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
 
 ### Image
@@ -88,31 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
 
-### Performance
-
-- [Perflink](https://perf.link) - JS benchmarks
-
-### Playgrounds
-
-- [codepen](http://codepen.io/) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
-- [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
-- [Ellie](https://ellie-app.com/) - The Elm Live Editor
-- [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
-- [ESM](https://code.esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
-- [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
-- [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
-- [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
-- [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
-- [playcode.io](https://playcode.io/) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
-
-### Regex
-
-- [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
-- [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
-- [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
-- [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
-- [Regexr](http://www.regexr.com/) - JavaScript regex matching.
-- [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+## Web-based Services
 
 ### Copy/Paste Scripts &amp; Styles
 
@@ -124,21 +79,67 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
 - [transition.css](https://www.transition.style) - Drop-in CSS transitions
 
+### File Sharing
+
+- [file.io](https://www.file.io) - Ephemeral file sharing. Convenient, anonymous and secure.
+- [instant.io](https://instant.io) - Instant file transfer/sharing over WebTorrent
+- [pairdrop](https://pairdrop.net) - Instant file transfer over your local network (P2P)
+
+### Performance
+
+- [Perflink](https://perf.link) - JS benchmarks
+
+### Playgrounds
+
+- [codepen](http://codepen.io/pen) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+- [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
+- [Ellie](https://ellie-app.com/) - The Elm Live Editor
+- [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
+- [ESM](https://code.esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+- [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
+- [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
+- [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
+
+### Regex
+
+- [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
+- [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
+- [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
+- [Regexr](http://www.regexr.com/) - JavaScript regex matching.
+- [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+
 ### Transformation
 
+- [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
+- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
+- [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
+- [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
+- [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
+- [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
+- [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
 - [Sassmeister](http://sassmeister.com/) - Sass/Scss <-> CSS
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
+- [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
 - [Web2Img](https://etherdream.com/web2img) - A tool to bundle your web files into a single image, and extract them via Service Worker at runtime.
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/) - translate C/C++ to WebAssembly, and then see the machine code generated by the browser.
 
+
 ### Presentation
 
-- [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
+- [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
 - [Ray.so](https://ray.so) - Create beautiful images of code snippets.
+- [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
 
 ## Resources
+
+### APIs
+
+- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Browser Information
 
@@ -154,18 +155,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - A concise collection of high value information on specific application security topics.
 
-### Compatability
-
-- [HTML5](http://html5please.com/)
-
 ### CSS Inliners
 
-- [Campaign Monitor](http://inliner.cm/)
-- [MailChimp](http://templates.mailchimp.com/resources/inline-css/)
-
-### CSS Post Processors
-
-- [Pleeease](http://pleeease.io/play/)
+- [Campaign Monitor](https://www.campaignmonitor.com/resources/tools/css-inliner)
+- [MailChimp](http://templates.mailchimp.com/resources/inline-css)
 
 ### Documentation
 
@@ -187,11 +180,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Icon Monstr](http://iconmonstr.com) - Discover 4000+ free icons in 300+ collections.
 - [Icônes](https://icones.js.org/collection/all) - Over 150,000 open source vector icons.
 - [Tabler Icons](https://tablericons.com) - 4000+ Open source free SVG icons. Highly customizable. No attribution required. For commercial use.
-
-### Open JSON &amp; Feeds
-
-- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
-- [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Proxy as a Service
 
