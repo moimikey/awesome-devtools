@@ -12,9 +12,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
 - [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - A browser-based tool to test any website's responsiveness.
 
-## Tools
+## Web-based Tools
 
-### Debugging &amp; Development
+### Debug JavaScript
 
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
@@ -29,18 +29,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
-
-### Deobfuscation &amp; Transformation
-
-- [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
-- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
-- [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
-- [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
-- [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
-- [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
-- [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
-- [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
-- [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 
 ### Diagramming &amp; Scratch
 
@@ -60,11 +48,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [README.so](https://readme.so/editor) - A simple editor to quickly add and customize all the sections you need for your project's readme.
 
-### File Sharing
-
-- [file.io](https://www.file.io/) - Ephemeral file sharing. Convenient, anonymous and secure.
-- [instant.io](https://instant.io/) - Instant file transfer/sharing over WebTorrent
-
 ### Generators
 
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
@@ -82,6 +65,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+
+## Web-based Services
+
+### File Sharing
+
+- [file.io](https://www.file.io) - Ephemeral file sharing. Convenient, anonymous and secure.
+- [instant.io](https://instant.io) - Instant file transfer/sharing over WebTorrent
+- [pairdrop](https://pairdrop.net) - Instant file transfer/sharing over your local network (P2P)
 
 ### Performance
 
@@ -121,12 +112,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Transformation
 
+- [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
+- [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
+- [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
+- [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
+- [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
+- [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
+- [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
 - [Sassmeister](http://sassmeister.com/) - Sass/Scss <-> CSS
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
+- [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
 - [Web2Img](https://etherdream.com/web2img) - A tool to bundle your web files into a single image, and extract them via Service Worker at runtime.
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/) - translate C/C++ to WebAssembly, and then see the machine code generated by the browser.
+
 
 ### Presentation
 
