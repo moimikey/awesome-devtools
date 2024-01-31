@@ -87,9 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ESM](https://code.esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 - [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
-- [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
-- [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
-- [playcode.io](https://playcode.io/) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
+- [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
 
 ### Regex
 
