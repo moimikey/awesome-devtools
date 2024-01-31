@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [file.io](https://www.file.io) - Ephemeral file sharing. Convenient, anonymous and secure.
 - [instant.io](https://instant.io) - Instant file transfer/sharing over WebTorrent
-- [pairdrop](https://pairdrop.net) - Instant file transfer/sharing over your local network (P2P)
+- [pairdrop](https://pairdrop.net) - Instant file transfer over your local network (P2P)
 
 ### Performance
 
