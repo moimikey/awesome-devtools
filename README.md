@@ -155,10 +155,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - A concise collection of high value information on specific application security topics.
 
-### Compatability
-
-- [HTML5](http://html5please.com/)
-
 ### CSS Inliners
 
 - [Campaign Monitor](http://inliner.cm/)
