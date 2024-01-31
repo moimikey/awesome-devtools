@@ -7,7 +7,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Bookmarklets
 
 - [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
-- [deCSS3](https://github.com/davatron5000/deCSS3/) - A lil' bookmarklet that will strip out your CSS3 rules and show you how gracefully you're degrading.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
 - [Ramda](https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md) - Add Ramda to any page!
