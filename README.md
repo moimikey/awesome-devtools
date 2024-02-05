@@ -42,6 +42,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
 - [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
 
+### Development Assistant
+
+- [Pieces](https://pieces.app/) - An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
+
+
 ### Diffing
 
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
