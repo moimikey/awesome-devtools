@@ -1,7 +1,6 @@
 name: Dead Links (Fail Fast)
 
 on:
-  push:
   pull_request:
 
 jobs:
