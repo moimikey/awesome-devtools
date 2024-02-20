@@ -129,7 +129,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Presentation
 
-- [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
 - [Ray.so](https://ray.so) - Create beautiful images of code snippets.
 - [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
 
