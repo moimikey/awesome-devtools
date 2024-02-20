@@ -14,3 +14,17 @@ jobs:
         with:
           fail: true
           args: --base . --verbose --no-progress 'README.md'
+
+      - name: Broken Link Detected
+        if: env.lychee_exit_code != 0
+        uses: actions/github-script@v6
+        with:
+          script: |
+            let fs = require('fs');
+            let report = fs.readFileSync('./lychee/out.md');
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: String(report)
+            })
