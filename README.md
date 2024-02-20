@@ -214,6 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Swag
 
 - [DevSwag](http://devswag.com/)
+- [DevSwag](http://devswag.com/)
 - [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
 
 ## License
