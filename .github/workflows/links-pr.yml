@@ -12,5 +12,20 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          fail: true
-          args: --base . --verbose --no-progress 'README.md'
+          args: --base . --no-progress 'README.md'
+
+      - name: Broken Link Detected
+        if: env.lychee_exit_code != 0
+        uses: actions/github-script@v6
+        with:
+          result-encoding: string
+          script: |
+            let fs = require('fs');
+            let report = fs.readFileSync('./lychee/out.md');
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: String(report)
+            });
+            core.setFailed('Broken link detected. Failing.');
