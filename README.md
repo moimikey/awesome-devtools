@@ -211,6 +211,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## The Outside World
 
+- [True Devtools](https://truedevtools.com) - All-in-one Toolkit for Developers
+
 ### Swag
 
 - [DevSwag](http://devswag.com/)
