@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
+- [Mockium](https://softwium.com/mockium/) - Create test data
 
 ### Image
 
@@ -194,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
+- [Pythonium](https://pythonium.net/linter) - Validate Python code.
 
 ## Security
 
