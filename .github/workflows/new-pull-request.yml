@@ -10,12 +10,10 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Automated Comment
-        # if: github.actor != github.repository_owner
+        if: github.actor != github.repository_owner
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            Hello **${{ github.actor }}** :wave:,
+            Hello **${{ github.actor }}** :wave:!
             Thank you very much for your submission! <u>Please make sure you have reviewed the requirements</u> for approving and merging your pull request (PR). It may take some time for your submission to be reviewed. You can occasionally comment with a "bump" to bring more attention to it.
           reactions: eyes, rocket
-          # comment_tag: to_delete
-          # mode: delete
