@@ -212,6 +212,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Security Headers by Probely](https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com) - An easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 - [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
 
+## Notable Mentions
+
+- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
+- [Octopus](https://octopus.do) - Lightning-fast visual sitemap builder &amp; website planner.
+- [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
+- [TypeScriptToLua](https://typescripttolua.github.io) - TypeScript to Lua
+
 ## The Outside World
 
 ### Swag
