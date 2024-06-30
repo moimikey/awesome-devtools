@@ -1,0 +1,24 @@
+name: New Submission PR
+
+on: pull_request
+
+jobs:
+  new-pull-request:
+    runs-on: ubuntu-latest
+    name: An example job to comment a PR
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Automated Comment
+        if: github.actor != github.repository_owner
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            Hello ${{ github.actor }}! :wave:
+            Many thanks for your submission. Please ensure that you
+            have read the requirements for approving and merging your PR.
+            Please allow some time for your submission to be reviewed, and
+            feel free to comment with occasional "bump" comments for visibility.
+          reactions: eyes, rocket
+          # comment_tag: to_delete
+          # mode: delete
