@@ -120,7 +120,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
-- [Sassmeister](http://sassmeister.com/) - Sass/Scss <-> CSS
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
@@ -199,7 +198,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### SSL
 
-- [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
 - [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org) - SSL configuration generator for various server software and platforms.
 
