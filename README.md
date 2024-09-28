@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Diffing
 
+- [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
 
 ### Document &amp; Editors
