@@ -137,7 +137,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### APIs
 
-- [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
