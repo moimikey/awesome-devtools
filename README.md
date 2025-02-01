@@ -27,7 +27,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Postman Alternatives
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
-- [RecipeUI](https://recipeui.com/editor) - Open source Postman alternative with type safety built in.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
 
 ### Diagramming &amp; Scratch
