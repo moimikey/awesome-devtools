@@ -141,6 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FillText](http://filltext.com/) - Generate JSON datasets for testing or demonstration purposes
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
+- [CentralMind/Gateway](https://github.com/centralmind/gateway) — 🤖 Tool to generate production ready APIs using AI based on database schema and data, optimized for AI-Agents. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery. 
 
 ### Browser Information
 
