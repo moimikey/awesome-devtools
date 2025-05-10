@@ -124,8 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [JSON Formatter & Validator](https://devtoollab.com/tools/json-formatter) - Format, validate and beautify JSON data
 - [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
-- [YAML to JSON](https://devtoollab.com/tools/yaml-to-json) - Convert YAML to JSON format
-- [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-to-json) - Convert between CSV and JSON formats
+- [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
