@@ -122,6 +122,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSNice](http://www.jsnice.org/) - Statistical renaming, type inference and deobfuscation.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
+- [JSON Formatter & Validator](https://devtoollab.com/tools/json-formatter) - Format, validate and beautify JSON data
+- [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
+- [YAML to JSON](https://devtoollab.com/tools/yaml-to-json) - Convert YAML to JSON format
+- [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-to-json) - Convert between CSV and JSON formats
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
@@ -136,10 +140,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
 
 ## Resources
-
-### Tool Discovery
-
-- [DevToolLab](https://devtoollab.com) - A comprehensive platform that helps developers discover and explore the best tools for their development workflow. Features tools across various categories with user reviews and recommendations.
 
 ### APIs
 
