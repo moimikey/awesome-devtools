@@ -7,7 +7,7 @@ on:
 jobs:
   new-pull-request:
     runs-on: ubuntu-latest
-    name: An example job to comment a PR
+    name: AwesomeDevtoolsBot
     steps:
       - uses: actions/checkout@v3
 
@@ -17,5 +17,5 @@ jobs:
         with:
           message: |
             Hello **${{ github.actor }}** :wave:!
-            Thank you very much for your submission! <u>Please make sure you have reviewed the requirements</u> for approving and merging your pull request (PR). It may take some time for your submission to be reviewed. You can occasionally comment with a "bump" to bring more attention to it.
+            Thank you very much for your submission! <u>Please make sure you have reviewed the requirements</u> for approving and merging your pull request (PR). It may take some time for your submission to be reviewed. You can occasionally comment with a "bump" to bring more attention to it. Ensure that your submission does directly to a tool, without the requirement of logging in or signing up to use it.
           reactions: eyes, rocket
