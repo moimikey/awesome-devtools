@@ -63,7 +63,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
-- [PicPerf](https://www.picperf.dev/analyze) - Boost web performance with image optimization. Analyze and improve `<img>` tags, `<style>` tags, and inline CSS.
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
