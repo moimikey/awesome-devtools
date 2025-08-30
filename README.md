@@ -89,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Performance
 
 - [Perflink](https://perf.link) - JS benchmarks
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 
 ### Playgrounds
 
