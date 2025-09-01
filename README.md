@@ -53,6 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
+- [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
+- [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
@@ -105,6 +107,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Regex
 
+- [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching, examples, and mobile optimization.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
@@ -115,6 +118,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
+- [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
+- [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
