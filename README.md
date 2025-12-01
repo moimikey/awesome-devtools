@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
+- [Requestly](https://requestly.com) – A lightweight, local-first API client that works on web and desktop, with Git compatible workspace for easy version control.
 
 ### Diagramming &amp; Scratch
 
