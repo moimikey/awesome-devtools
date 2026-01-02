@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
+- [Developer Tools Hub](https://optimize-overseas.github.io/autonomousbot/) - 33 free web utilities: password generator, UUID generator, hash generator (MD5/SHA), Base64 encoder, QR code maker, and more. Works offline.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
