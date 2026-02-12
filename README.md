@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Debug JavaScript
 
+- [API Status Check](https://apistatuscheck.com) - Monitor the status and uptime of 120+ popular developer APIs in real-time
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 - [endpoints.dev](https://www.endpoints.dev) - View realtime HTTP requests using a endpoints.dev generated URL.
