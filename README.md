@@ -30,6 +30,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
 
+### Webhook Debugging
+
+- [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Self-hosted webhook inspector with signature verification, 90-day history, and support for Stripe, GitHub, Slack, Shopify webhooks.
+
 ### Diagramming &amp; Scratch
 
 - [asciiflow](https://asciiflow.com) - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams.
