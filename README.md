@@ -59,6 +59,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
+- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs. No signup required.
+- [CronForge](https://simplereally.github.io/cron-forge/) - Visual cron expression builder with human-readable descriptions and validation. No signup required.
+- [InvoiceForge](https://simplereally.github.io/invoice-forge/) - Generate professional invoices with PDF export. No signup required.
+- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing. No signup required.
+- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
+- [QRForge](https://simplereally.github.io/qr-forge/) - Generate QR codes with customizable colors and sizes. No signup required.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
 
 ### Image
