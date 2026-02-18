@@ -56,9 +56,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
-- [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
-- [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
 - [Mockium](https://softwium.com/mockium/) - Create test data
+- [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
+- [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
+- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs. No signup required.
+- [CronForge](https://simplereally.github.io/cron-forge/) - Visual cron expression builder with human-readable descriptions and validation. No signup required.
+- [InvoiceForge](https://simplereally.github.io/invoice-forge/) - Generate professional invoices with PDF export. No signup required.
+- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing. No signup required.
+- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
+- [QRForge](https://simplereally.github.io/qr-forge/) - Generate QR codes with customizable colors and sizes. No signup required.
+- [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
 
 ### Image
 
@@ -123,6 +130,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
+- [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [JSON Formatter & Validator](https://devtoollab.com/tools/json-formatter) - Format, validate and beautify JSON data
 - [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
