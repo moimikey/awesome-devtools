@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
 - [endpoints.dev](https://www.endpoints.dev) - View realtime HTTP requests using a endpoints.dev generated URL.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
+- [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging tool for capturing, replaying, and analyzing webhook deliveries.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
