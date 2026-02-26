@@ -98,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Performance
 
 - [Perflink](https://perf.link) - JS benchmarks
-- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free website health scanner: SEO, Performance, Accessibility & Best Practices audits in 30 seconds. AI-powered insights, no login required.
+- [PageGuard](https://pageguard.org) - Free website health scanner: SEO, Performance, Accessibility & Best Practices audits in 30 seconds. AI-powered insights, no login required.
 
 ### Playgrounds
 
