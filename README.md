@@ -129,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
+- [CodeNeat](https://codeneat.dev) - Privacy-first developer tools suite (JSON formatter, Base64, regex tester, diff checker, JWT decoder, SQL formatter, hash generator) — 100% client-side processing, no data sent to servers.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
