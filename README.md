@@ -66,6 +66,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
 - [QRForge](https://simplereally.github.io/qr-forge/) - Generate QR codes with customizable colors and sizes. No signup required.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
+  - [DevUtility Hub](https://www.devutilityhub.me/) - Privacy-first, offline-capable suite of 165+ developer tools (JSON formatters, JWT decoders, CSS tools, and more).
+
 
 ### Image
 
