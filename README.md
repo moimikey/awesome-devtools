@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
+- [PureDevTools](https://puredevtools.tools) - 240+ browser-based developer utilities. All processing client-side, no data leaves the device.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
