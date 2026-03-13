@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs. No signup required.
 - [CronForge](https://simplereally.github.io/cron-forge/) - Visual cron expression builder with human-readable descriptions and validation. No signup required.
 - [InvoiceForge](https://simplereally.github.io/invoice-forge/) - Generate professional invoices with PDF export. No signup required.
+- [ToolSparkr](https://toolsparkr.com) - Collection of 35+ free online developer tools — JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser.
 - [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing. No signup required.
 - [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
 - [QRForge](https://simplereally.github.io/qr-forge/) - Generate QR codes with customizable colors and sizes. No signup required.
