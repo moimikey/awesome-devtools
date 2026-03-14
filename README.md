@@ -230,6 +230,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Octopus](https://octopus.do) - Lightning-fast visual sitemap builder &amp; website planner.
 - [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
 - [TypeScriptToLua](https://typescripttolua.github.io) - TypeScript to Lua
+- [ZapTools](https://zaptools.web.app) - 117+ free browser-based developer tools including formatters, encoders, generators, and converters.
 
 ## The Outside World
 
