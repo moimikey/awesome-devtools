@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Regex
 
+- [AnyTools.io](https://anytools.io/anytools/) - Free in-browser developer toolkit — JSON formatter, JWT decoder, regex tester, cron builder, base64/URL encoder, contrast checker, and 25+ more. No login, no server-side processing.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [reFiddle](http://refiddle.com/) - Ruby/.NET/JavaScript regex matching.
