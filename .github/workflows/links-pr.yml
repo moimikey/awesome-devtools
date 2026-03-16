@@ -3,9 +3,6 @@ name: Dead Links (Fail Fast)
 on:
   pull_request_target:
 
-permissions:
-  pull-requests: write
-
 jobs:
   check-links-pr:
     runs-on: ubuntu-latest
@@ -18,17 +15,3 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: --root-dir . --no-progress 'README.md'
-
-      - name: Broken Link Detected
-        if: failure()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const report = fs.readFileSync('./lychee/out.md', 'utf8');
-            await github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: report
-            });

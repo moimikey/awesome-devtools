@@ -1,0 +1,12 @@
+# Sites that block crawlers with 403
+https://www.iconfinder.com/
+https://web-check.xyz/
+https://cors-anywhere.herokuapp.com/
+http://codepen.io/pen
+http://iconmonstr.com/
+
+# Flaky / intermittent timeouts
+http://selfsignedcertificate.com/
+http://www.favicomatic.com/
+https://squoosh.app/
+https://babeljs.io/en/repl
