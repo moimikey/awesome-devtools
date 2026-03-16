@@ -1,31 +1,34 @@
 name: Dead Links (Fail Fast)
 
 on:
-  pull_request:
+  pull_request_target:
+
+permissions:
+  pull-requests: write
 
 jobs:
   check-links-pr:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.9.0
+        uses: lycheeverse/lychee-action@v2
         with:
-          args: --base . --no-progress 'README.md'
+          args: --root-dir . --no-progress 'README.md'
 
       - name: Broken Link Detected
-        if: env.lychee_exit_code != 0
-        uses: actions/github-script@v6
+        if: failure()
+        uses: actions/github-script@v7
         with:
-          result-encoding: string
           script: |
-            let fs = require('fs');
-            let report = fs.readFileSync('./lychee/out.md');
-            github.rest.issues.createComment({
+            const fs = require('fs');
+            const report = fs.readFileSync('./lychee/out.md', 'utf8');
+            await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: String(report)
+              body: report
             });
-            core.setFailed('Broken link detected. Failing.');
