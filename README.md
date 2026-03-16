@@ -10,8 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
-- [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - A browser-based tool to test any website's responsiveness.
-
 ## Web-based Tools
 
 ### Debug JavaScript
@@ -36,7 +34,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dbdiagram](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly.
 - [dot-to-ascii](https://dot-to-ascii.ggerganov.com) - Graphviz to ASCII converter using Graph::Easy.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard.
-- [JSON-to-Chart](https://jsontochart.com) - Create beautiful charts from JSON data in your browser.
 - [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
 - [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
