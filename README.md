@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sovereign Meta Forge](https://ryudi84.github.io/sovereign-tools/tools/meta_forge/) - Generate HTML meta tags for SEO optimization. Free, no signup required.
 - [Sovereign README Forge](https://ryudi84.github.io/sovereign-tools/tools/readme_forge/) - Generate professional README files for your projects. Free, no signup required.
 - [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
+- [Tools-Online Cron Generator](https://www.tools-online.app/tools/cron) - Visual cron expression builder with real-time preview and plain English descriptions. 100% client-side.
 
 ### Image
 
