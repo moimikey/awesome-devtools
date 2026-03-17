@@ -10,8 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
-- [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - A browser-based tool to test any website's responsiveness.
-
 ## Web-based Tools
 
 ### Debug JavaScript
@@ -36,7 +34,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dbdiagram](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly.
 - [dot-to-ascii](https://dot-to-ascii.ggerganov.com) - Graphviz to ASCII converter using Graph::Easy.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard.
-- [JSON-to-Chart](https://jsontochart.com) - Create beautiful charts from JSON data in your browser.
 - [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
 - [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
@@ -46,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
+- [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 
 ### Document &amp; Editors
 
@@ -68,6 +66,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
 - [QRForge](https://simplereally.github.io/qr-forge/) - Generate QR codes with customizable colors and sizes. No signup required.
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
+- [Sovereign Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
+- [Sovereign Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor. Free, no signup required.
+- [Sovereign Hash Forge](https://ryudi84.github.io/sovereign-tools/tools/hash_forge/) - Generate SHA-256, MD5, and other hashes in the browser. Free, no signup required.
+- [Sovereign Meta Forge](https://ryudi84.github.io/sovereign-tools/tools/meta_forge/) - Generate HTML meta tags for SEO optimization. Free, no signup required.
+- [Sovereign README Forge](https://ryudi84.github.io/sovereign-tools/tools/readme_forge/) - Generate professional README files for your projects. Free, no signup required.
+- [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
+- [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
+- [Tools-Online Cron Generator](https://www.tools-online.app/tools/cron) - Visual cron expression builder with real-time preview and plain English descriptions. 100% client-side.
 
 ### Image
 
@@ -122,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [Sovereign Regex Lab](https://ryudi84.github.io/sovereign-tools/tools/regex_lab/) - Test and debug regular expressions with real-time matching. Free, no signup required.
 
 ### Transformation
 
@@ -139,12 +146,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
+- [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser. Free, no signup required.
+- [Sovereign JSON Toolkit](https://ryudi84.github.io/sovereign-tools/tools/json_toolkit/) - Format, validate, and beautify JSON with syntax highlighting. Free, no signup required.
+- [Sovereign JWT Forge](https://ryudi84.github.io/sovereign-tools/tools/jwt_forge/) - Decode and inspect JSON Web Tokens in the browser. Free, no signup required.
+- [Sovereign Timestamp Forge](https://ryudi84.github.io/sovereign-tools/tools/timestamp_forge/) - Convert Unix timestamps to human-readable dates and vice versa. Free, no signup required.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
 - [Web2Img](https://etherdream.com/web2img) - A tool to bundle your web files into a single image, and extract them via Service Worker at runtime.
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/) - translate C/C++ to WebAssembly, and then see the machine code generated by the browser.
-
+- [ToolsHref Mermaid Transfomration tool](https://toolshref.com/json-to-mermaid-generator/) - Online JSON-to-Mermaid visualization tool.
+   
 ### Presentation
 
 - [Ray.so](https://ray.so) - Create beautiful images of code snippets.
@@ -206,10 +218,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 
 ### Validation &amp; Parsers
-
-- [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
-- [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+- [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
+- [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
 - [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
 
