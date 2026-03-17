@@ -43,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
+- [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 
 ### Document &amp; Editors
 
@@ -220,6 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
+- [ApiNotes](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 
 ## Security
 
