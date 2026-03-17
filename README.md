@@ -59,6 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
 - [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs. No signup required.
 - [CronForge](https://simplereally.github.io/cron-forge/) - Visual cron expression builder with human-readable descriptions and validation. No signup required.
+- [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
+- [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
 - [InvoiceForge](https://simplereally.github.io/invoice-forge/) - Generate professional invoices with PDF export. No signup required.
 - [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing. No signup required.
 - [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
@@ -216,12 +218,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 
 ### Validation &amp; Parsers
-
-- [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
-- [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+- [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
+- [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
-- [ApiNotes](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
+- [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
 
 ## Security
 
