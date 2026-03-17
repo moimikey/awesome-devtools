@@ -243,6 +243,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Octopus](https://octopus.do) - Lightning-fast visual sitemap builder &amp; website planner.
+- [simvyn](https://github.com/pranshuchittora/simvyn) - Universal mobile dev tool to manage iOS Simulators, Android Emulators, and real devices from a web dashboard or CLI.
 - [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
 - [TypeScriptToLua](https://typescripttolua.github.io) - TypeScript to Lua
 
