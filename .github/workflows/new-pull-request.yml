@@ -1,21 +1,31 @@
 name: New Submission PR
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened]
+
+permissions:
+  pull-requests: write
 
 jobs:
   new-pull-request:
+    if: github.event.pull_request.user.login != github.repository_owner
     runs-on: ubuntu-latest
     name: AwesomeDevtoolsBot
     steps:
-      - uses: actions/checkout@v3
-
       - name: Automated Comment
-        # if: github.actor != github.repository_owner
-        uses: thollander/actions-comment-pull-request@v2
+        uses: thollander/actions-comment-pull-request@v3
         with:
           message: |
-            Hello **${{ github.actor }}** :wave:!
-            Thank you very much for your submission! <u>Please make sure you have reviewed the requirements</u> for approving and merging your pull request (PR). It may take some time for your submission to be reviewed. You can occasionally comment with a "bump" to bring more attention to it. Ensure that your submission does directly to a tool, without the requirement of logging in or signing up to use it.
+            Hey **${{ github.event.pull_request.user.login }}**! Thanks for your submission! 🚀
+
+            To keep awesome-devtools instantly accessible for everyone, all tools must be:
+
+            - **Browser-based** — no downloads or native app installs
+            - **Direct link** — goes straight to the tool (not a multi-tool landing page)
+            - **100% free** — no signups, trials, paywalls, or usage limits
+
+            Please make sure your PR meets these criteria. It may take some time for your submission to be reviewed — you can occasionally comment with a "bump" to bring more attention to it.
+
+            Thanks for contributing! 🙌
           reactions: eyes, rocket
