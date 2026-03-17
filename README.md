@@ -165,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
+- [Arch Tools](https://archtools.dev) - 61 AI tools API (code analysis, web scraping, image generation, NLP, crypto, search) via REST + MCP protocol.
 
 ### Browser Information
 
