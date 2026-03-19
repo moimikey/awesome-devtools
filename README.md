@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Performance
 
+- [Benchmark Studio](https://benchmarkstudio.net/) - JS performance benchmarks
 - [Perflink](https://perf.link) - JS benchmarks
 
 ### Playgrounds
