@@ -258,3 +258,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+- **[DevToolBox](https://usedevtools.com/)** - 75+ browser-based developer utilities with complete local processing and zero data transmitted to servers. Includes encoding/decoding (Base64, URL, HTML, JWT), JSON/data format conversion (JSON↔CSV↔XML↔YAML↔TOML), CSS tools, hash generation (MD5, SHA, bcrypt, HMAC), network utilities, regex tester, and more. Bilingual Japanese/English interface. Open source on GitHub.
