@@ -74,6 +74,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
 - [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
 - [Tools-Online Cron Generator](https://www.tools-online.app/tools/cron) - Visual cron expression builder with real-time preview and plain English descriptions. 100% client-side.
+- [ToolSparkr Password Generator](https://toolsparkr.com/password-generator) - Generate strong random passwords up to 128 characters with strength indicator. 100% client-side, no data sent to servers.
+- [ToolSparkr QR Code Reader](https://toolsparkr.com/qr-code-reader) - Generate and read QR codes online with adjustable size and error correction. Runs entirely in browser.
 
 ### Image
 
@@ -151,6 +153,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sovereign JSON Toolkit](https://ryudi84.github.io/sovereign-tools/tools/json_toolkit/) - Format, validate, and beautify JSON with syntax highlighting. Free, no signup required.
 - [Sovereign JWT Forge](https://ryudi84.github.io/sovereign-tools/tools/jwt_forge/) - Decode and inspect JSON Web Tokens in the browser. Free, no signup required.
 - [Sovereign Timestamp Forge](https://ryudi84.github.io/sovereign-tools/tools/timestamp_forge/) - Convert Unix timestamps to human-readable dates and vice versa. Free, no signup required.
+- [ToolSparkr Base64 Encoder](https://toolsparkr.com/base64-encoder) - Encode and decode Base64 strings with URL-safe option and file support. 100% client-side.
+- [ToolSparkr JSON Formatter](https://toolsparkr.com/json-validator-beautifier) - Validate, format and beautify JSON data with error line reporting. Runs entirely in browser.
+- [ToolSparkr URL Encoder](https://toolsparkr.com/url-encoder) - Encode and decode URLs with parameter parsing table. 100% client-side, no data sent to servers.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
