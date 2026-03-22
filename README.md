@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [DevToolBox](https://usedevtools.com/) - 75+ browser-based developer utilities with complete local processing and zero data transmitted to servers. Includes encoding/decoding (Base64, URL, HTML, JWT), JSON/data format conversion (JSON↔CSV↔XML↔YAML↔TOML), CSS tools, hash generation (MD5, SHA, bcrypt, HMAC), network utilities, regex tester, and more. Bilingual Japanese/English interface. Open source on GitHub.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
