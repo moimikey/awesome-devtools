@@ -77,7 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ToolSparkr Password Generator](https://toolsparkr.com/password-generator) - Generate strong random passwords up to 128 characters with strength indicator. 100% client-side, no data sent to servers.
 - [ToolSparkr QR Code Reader](https://toolsparkr.com/qr-code-reader) - Generate and read QR codes online with adjustable size and error correction. Runs entirely in browser.
 
-- [UtilShed](https://utilshed.com) - 100+ free online developer tools: JSON formatter, Base64 encoder, UUID generator, regex tester, hash generator, color converter, JWT decoder, and more. No signup, no ads, open source.
+- [UtilShed JSON Formatter](https://utilshed.com/json-formatter) - Format, validate, and minify JSON with syntax highlighting and error detection. Runs entirely in browser, no data sent to servers.
 ### Image
 
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
