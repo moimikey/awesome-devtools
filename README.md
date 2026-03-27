@@ -51,6 +51,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
+- [Anytools](https://anytools.io) — Free, browser-based suite of 40+ developer and design utilities: UUID generator, password generator, color palette generator, favicon generator, JSON formatter, Base64 encoder/decoder, JWT decoder, regex tester, SHA checksums, code minifier, gradient builder, contrast checker, and calculators. No account required.
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
