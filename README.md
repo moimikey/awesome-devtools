@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
+- [DevTools.run UUID Generator](https://devtools-site-delta.vercel.app/uuid-generator) - Generate v1, v4, and v5 UUIDs in bulk with one click. Client-side, no signup.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
@@ -80,6 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image
 
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
+- [DevTools.run Image Compressor](https://devtools-site-delta.vercel.app/image-compressor) - Compress JPEG, PNG, and WebP images in-browser with adjustable quality. No uploads to any server.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
@@ -126,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Regex
 
 - [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching, examples, and mobile optimization.
+- [DevTools.run Regex Tester](https://devtools-site-delta.vercel.app/regex-tester) - JavaScript regex tester with real-time highlighting, flag toggles, and built-in presets for email, URL, IPv4, and more. Runs in-browser.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
