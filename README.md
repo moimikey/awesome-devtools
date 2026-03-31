@@ -1,3 +1,4 @@
+re<img width="1901" height="858" alt="image" src="https://github.com/user-attachments/assets/bf5963a3-0fcf-464d-b788-1175450cece9" />
 # Awesome Developer Tools
 
 > A curated list of in-browser [bookmarklets](#bookmarklets), [tools](#tools), and [resources](#resources) for modern full-stack software engineers.
@@ -128,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching, examples, and mobile optimization.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
+- [Fluranto Regex Tester](https://www.fluranto.com/en/developer/regex-tester) - Test and debug regular expressions with live matching. Runs locally in the browser, no signup required.
 - [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
