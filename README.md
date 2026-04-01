@@ -173,6 +173,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### APIs
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [ToolPipe](https://assessing-scoop-authorities-sheet.trycloudflare.com) - 70+ free developer utility APIs: browser automation, screenshots, PDFs, scraping, text tools, and more. No auth required, CORS enabled.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Browser Information
