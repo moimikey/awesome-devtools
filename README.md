@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tools-Online Cron Generator](https://www.tools-online.app/tools/cron) - Visual cron expression builder with real-time preview and plain English descriptions. 100% client-side.
 - [ToolSparkr Password Generator](https://toolsparkr.com/password-generator) - Generate strong random passwords up to 128 characters with strength indicator. 100% client-side, no data sent to servers.
 - [ToolSparkr QR Code Reader](https://toolsparkr.com/qr-code-reader) - Generate and read QR codes online with adjustable size and error correction. Runs entirely in browser.
+- [Goosekit](https://goosekit.dev) - 34+ free browser-based developer tools. JSON formatter, regex tester, hash generator, SQL formatter, cURL converter, and more. No signup, no tracking.
 
 ### Image
 
