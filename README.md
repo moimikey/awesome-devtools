@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
+- [ToolPipe](https://toolpipe.dev) - 55+ REST API endpoints for developer utilities. Free alternative to multiple single-purpose API tools.
 
 ### Diagramming &amp; Scratch
 
@@ -76,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tools-Online Cron Generator](https://www.tools-online.app/tools/cron) - Visual cron expression builder with real-time preview and plain English descriptions. 100% client-side.
 - [ToolSparkr Password Generator](https://toolsparkr.com/password-generator) - Generate strong random passwords up to 128 characters with strength indicator. 100% client-side, no data sent to servers.
 - [ToolSparkr QR Code Reader](https://toolsparkr.com/qr-code-reader) - Generate and read QR codes online with adjustable size and error correction. Runs entirely in browser.
+- [ToolPipe](https://toolpipe.dev) - Generate QR codes, UUIDs, hashes, short URLs, and more via free API endpoints.
 
 ### Image
 
@@ -173,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### APIs
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [ToolPipe](https://toolpipe.dev) - 55+ free developer utility APIs: QR codes, PDF processing, text analysis, DNS lookup, hashing, image processing, and more. No signup required.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Browser Information
