@@ -10,6 +10,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
+- [Related Repos](https://relatedrepos.com/bookmarklet) - Quickly view alternative repositories while browsing on GitHub. Results are updated daily.
+
 ## Web-based Tools
 
 ### Debug JavaScript
