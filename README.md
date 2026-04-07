@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Postman Alternatives
 
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
+- [DevTools](https://devtools.davrapps.dev) - 28 free browser-based developer utilities — JSON formatter, Base64 encode/decode, JWT decoder, UUID generator, regex tester, diff checker, SQL formatter, and more. 100% client-side, no signup.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
 
 ### Diagramming &amp; Scratch
