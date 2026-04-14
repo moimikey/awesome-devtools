@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Transformation
 
+- [Anytools JSON Formatter](https://anytools.io/dev/json-formatter) - Format, validate, and explore JSON with syntax highlighting and collapsible tree view. 100% client-side, no data sent to servers.
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
 - [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
