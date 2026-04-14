@@ -127,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Regex
 
+- [Anytools Regex Tester](https://anytools.io/dev/regex-tester) - Live JavaScript regex matching with capture group highlighting. 100% client-side, no data sent to servers.
 - [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching, examples, and mobile optimization.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
