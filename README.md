@@ -262,6 +262,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DevSwag](http://devswag.com/)
 - [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
 
+${ASB}
+${OSF}
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
