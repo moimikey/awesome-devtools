@@ -266,3 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+### Accessibility
+
+- [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA accessibility scanner. Detects 80+ accessibility violations with AI-generated fix code. Returns a shareable report URL. No sign-up required.
