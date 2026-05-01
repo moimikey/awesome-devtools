@@ -176,6 +176,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### APIs
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [PostalCodes.info](https://postalcodes.info/api) - Global postal code lookup API and downloadable datasets.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Browser Information
