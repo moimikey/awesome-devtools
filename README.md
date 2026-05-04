@@ -232,6 +232,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
 - [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
+- [BeLikeNative Grammar Check](https://belikenative.com) - Browser-based grammar, spelling, and style checker with 70+ local rules. No account needed, works offline.
 
 ## Security
 
