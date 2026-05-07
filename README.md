@@ -159,6 +159,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ToolSparkr Base64 Encoder](https://toolsparkr.com/base64-encoder) - Encode and decode Base64 strings with URL-safe option and file support. 100% client-side.
 - [ToolSparkr JSON Formatter](https://toolsparkr.com/json-validator-beautifier) - Validate, format and beautify JSON data with error line reporting. Runs entirely in browser.
 - [ToolSparkr URL Encoder](https://toolsparkr.com/url-encoder) - Encode and decode URLs with parameter parsing table. 100% client-side, no data sent to servers.
+- [SlimUtils](https://slimutils.com) - 50 free browser tools in one place: JSON formatter, Base64, URL encoder, JWT decoder, hash generator, UUID generator, chmod calculator, cron builder, SQL formatter, JS minifier, keycode inspector, Unix timestamp converter, and more. All client-side, no login.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
