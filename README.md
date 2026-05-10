@@ -266,3 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+## Online Tools
+
+- [Bytepane](https://bytepane.com/) - Free developer tools suite: JSON formatter, regex tester with ReDoS detection, base64, JWT, hash generators, color converters, plus cheatsheets for 50+ languages. All client-side, no data leaves browser.
+
