@@ -116,6 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [codepen](http://codepen.io/pen) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 - [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
+- [CodingBooth](https://codingbooth.io) - Per-project containerized dev environments; a `.booth/` folder declares the env and one command spins it up as a terminal, Jupyter, browser-based VS Code, or full Linux desktop.
 - [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
 - [ESM](https://code.esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
