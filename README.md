@@ -127,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Regex
 
+- [AllTools Regex Visualizer](https://alltools.dev/tools/tech/regex-visualizer/) - Railroad diagrams for regular expressions, with live match and capture-group highlighting. Free, client-side, no signup.
 - [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching, examples, and mobile optimization.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
