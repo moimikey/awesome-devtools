@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Document &amp; Editors
 
 - [README.so](https://readme.so/editor) - A simple editor to quickly add and customize all the sections you need for your project's readme.
+- [PDF Toolbox](https://pdftoolbox.tech) - Free browser-based PDF toolkit: compress, merge, split, PDF to Word, PDF to JPG, JPG to PDF, unlock, protect. All client-side, no uploads, no signup.
 
 ### Generators
 
