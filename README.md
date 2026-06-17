@@ -81,8 +81,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Image
 
+- [AI Background Remover](https://codequest.work/generator/bg-remover/) - Automatically remove image backgrounds with AI subject detection. Runs entirely in browser.
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
+- [Image Compressor](https://codequest.work/generator/image-compressor/) - Compress and convert images between JPG, PNG, WebP, AVIF, and SVG with resizing. Runs entirely in browser.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
