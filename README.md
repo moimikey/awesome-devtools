@@ -9,28 +9,40 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
-- [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
 - [Related Repos](https://relatedrepos.com/bookmarklet) - Quickly view alternative repositories while browsing on GitHub. Results are updated daily.
+- [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
 
-## Web-based Tools
+## Tools
+
+### API Clients
+
+- [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
+- [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
+
+### Copy/Paste Scripts & Styles
+
+- [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
+- [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+
+### CSS
+
+- [Ceaser](http://matthewlein.com/ceaser/) - CSS easing animation tool with cubic-bezier curves.
+- [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
+- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) - Collection of responsive web design patterns.
+- [transition.css](https://www.transition.style) - Drop-in CSS transitions
+- [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
 
 ### Debug JavaScript
 
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
-- [endpoints.dev](https://www.endpoints.dev) - View realtime HTTP requests using a endpoints.dev generated URL.
 - [httpbin](http://httpbin.org/) - HTTP Request & Response service.
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
 - [SlowmoJS](http://toolness.github.io/slowmo-js/) - Execute JavaScript in slow motion.
 
-### Postman Alternatives
-
-- [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
-- [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
-
-### Diagramming &amp; Scratch
+### Diagramming & Scratch
 
 - [asciiflow](https://asciiflow.com) - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams.
 - [dbdiagram](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly.
@@ -39,67 +51,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
 - [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
+- [Octopus](https://octopus.do) - Lightning-fast visual sitemap builder & website planner.
 - [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
 
 ### Diffing
 
+- [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
-- [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
-
-### Document &amp; Editors
-
-- [README.so](https://readme.so/editor) - A simple editor to quickly add and customize all the sections you need for your project's readme.
-
-### Generators
-
-- [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
-- [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
-- [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
-- [Mockium](https://softwium.com/mockium/) - Create test data
-- [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
-- [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
-- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs. No signup required.
-- [CronForge](https://simplereally.github.io/cron-forge/) - Visual cron expression builder with human-readable descriptions and validation. No signup required.
-- [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
-- [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
-- [InvoiceForge](https://simplereally.github.io/invoice-forge/) - Generate professional invoices with PDF export. No signup required.
-- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing. No signup required.
-- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
-- [QRForge](https://simplereally.github.io/qr-forge/) - Generate QR codes with customizable colors and sizes. No signup required.
-- [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
-- [Sovereign Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
-- [Sovereign Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor. Free, no signup required.
-- [Sovereign Hash Forge](https://ryudi84.github.io/sovereign-tools/tools/hash_forge/) - Generate SHA-256, MD5, and other hashes in the browser. Free, no signup required.
-- [Sovereign Meta Forge](https://ryudi84.github.io/sovereign-tools/tools/meta_forge/) - Generate HTML meta tags for SEO optimization. Free, no signup required.
-- [Sovereign README Forge](https://ryudi84.github.io/sovereign-tools/tools/readme_forge/) - Generate professional README files for your projects. Free, no signup required.
-- [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
-- [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
-- [Tools-Online Cron Generator](https://www.tools-online.app/tools/cron) - Visual cron expression builder with real-time preview and plain English descriptions. 100% client-side.
-- [ToolSparkr Password Generator](https://toolsparkr.com/password-generator) - Generate strong random passwords up to 128 characters with strength indicator. 100% client-side, no data sent to servers.
-- [ToolSparkr QR Code Reader](https://toolsparkr.com/qr-code-reader) - Generate and read QR codes online with adjustable size and error correction. Runs entirely in browser.
-
-### Image
-
-- [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
-- [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
-- [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
-- [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
-- [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
-- [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
-- [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
-
-## Web-based Services
-
-### Copy/Paste Scripts &amp; Styles
-
-- [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
-- [CSS Scan - Box Shadows](https://getcssscan.com/css-box-shadow-examples) - CSS, Ready to use, click to copy
-- [CSS Scan - Buttons](https://getcssscan.com/css-buttons-examples) - CSS, Ready to use, click to copy
-- [CSS Scan - Checkboxes](https://getcssscan.com/css-checkboxes-examples) - CSS, Ready to use, click to copy
-- [CSS Scan - Shapes](https://getcssscan.com/css-shapes) - CSS, Ready to use, click to copy
-- [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
-- [transition.css](https://www.transition.style) - Drop-in CSS transitions
 
 ### File Sharing
 
@@ -107,9 +66,36 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [instant.io](https://instant.io) - Instant file transfer/sharing over WebTorrent
 - [pairdrop](https://pairdrop.net) - Instant file transfer over your local network (P2P)
 
+### Generators
+
+- [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
+- [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
+- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs.
+- [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
+- [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
+- [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
+- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing.
+- [Mockium](https://softwium.com/mockium/) - Create test data
+- [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
+- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators.
+- [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
+- [Sovereign Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor.
+- [Sovereign Hash Forge](https://ryudi84.github.io/sovereign-tools/tools/hash_forge/) - Generate SHA-256, MD5, and other hashes in the browser.
+- [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
+- [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
+
+### Image
+
+- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
+- [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
+- [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
+- [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
+- [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
+- [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+
 ### Performance
 
-- [Benchmark Studio](https://benchmarkstudio.net/) - JS performance benchmarks
 - [Perflink](https://perf.link) - JS benchmarks
 
 ### Playgrounds
@@ -122,18 +108,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 - [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
 - [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
-- [SQLite Playground](https://codapi.org/sqlite) - SQLite sandbox
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev) - Explore SQLite file format internals
+- [SQLite Playground](https://codapi.org/sqlite) - SQLite sandbox
+
+### Presentation
+
+- [Ray.so](https://ray.so) - Create beautiful images of code snippets.
+- [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
 
 ### Regex
 
-- [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching, examples, and mobile optimization.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
-- [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
-- [Sovereign Regex Lab](https://ryudi84.github.io/sovereign-tools/tools/regex_lab/) - Test and debug regular expressions with real-time matching. Free, no signup required.
 
 ### Transformation
 
@@ -142,34 +130,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
-- [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
-- [JSON Formatter & Validator](https://devtoollab.com/tools/json-formatter) - Format, validate and beautify JSON data
 - [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
-- [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
+- [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
-- [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser. Free, no signup required.
-- [Sovereign JSON Toolkit](https://ryudi84.github.io/sovereign-tools/tools/json_toolkit/) - Format, validate, and beautify JSON with syntax highlighting. Free, no signup required.
-- [Sovereign JWT Forge](https://ryudi84.github.io/sovereign-tools/tools/jwt_forge/) - Decode and inspect JSON Web Tokens in the browser. Free, no signup required.
-- [Sovereign Timestamp Forge](https://ryudi84.github.io/sovereign-tools/tools/timestamp_forge/) - Convert Unix timestamps to human-readable dates and vice versa. Free, no signup required.
-- [ToolSparkr Base64 Encoder](https://toolsparkr.com/base64-encoder) - Encode and decode Base64 strings with URL-safe option and file support. 100% client-side.
-- [ToolSparkr JSON Formatter](https://toolsparkr.com/json-validator-beautifier) - Validate, format and beautify JSON data with error line reporting. Runs entirely in browser.
-- [ToolSparkr URL Encoder](https://toolsparkr.com/url-encoder) - Encode and decode URLs with parameter parsing table. 100% client-side, no data sent to servers.
+- [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
+- [TypeScriptToLua](https://typescripttolua.github.io) - TypeScript to Lua
 - [Web2Img](https://etherdream.com/web2img) - A tool to bundle your web files into a single image, and extract them via Service Worker at runtime.
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/) - translate C/C++ to WebAssembly, and then see the machine code generated by the browser.
-- [ToolsHref Mermaid Transfomration tool](https://toolshref.com/json-to-mermaid-generator/) - Online JSON-to-Mermaid visualization tool.
-   
-### Presentation
-
-- [Ray.so](https://ray.so) - Create beautiful images of code snippets.
-- [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
 
 ## Resources
 
@@ -180,7 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Browser Information
 
-- [What's My Browser?](http://www.whatsmybrowser.org/)
+- [What's My Browser?](http://www.whatsmybrowser.org/) - Detailed, shareable information about your web browser.
 
 ### CDN
 
@@ -194,23 +170,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CSS Inliners
 
-- [Campaign Monitor](https://www.campaignmonitor.com/resources/tools/css-inliner)
-- [MailChimp](http://templates.mailchimp.com/resources/inline-css)
+- [Campaign Monitor](https://www.campaignmonitor.com/resources/tools/css-inliner) - Inline your CSS for HTML email.
+- [MailChimp](http://templates.mailchimp.com/resources/inline-css) - Inline CSS styles for HTML email templates.
 
 ### Documentation
 
 - [DevDocs](http://devdocs.io/) - Basically [Dash](https://kapeli.com/dash) but a web application and FREE.
-- [ECMAScript Proposal Stages](https://www.proposals.es/stages)
+- [ECMAScript Proposal Stages](https://www.proposals.es/stages) - Track TC39 ECMAScript proposals by stage.
 - [ExplainShell](https://explainshell.com/explain?cmd=ls+-lisah) - A better way to read MAN pages.
 
-### Easings & Animations
+### Glyphs & Icons
 
-- [Ceaser](http://matthewlein.com/ceaser/)
-
-### Glyphs &amp; Icons
-
-- [Copy/Paste Character](http://copypastecharacter.com) - Copy &amp; Paste emojis and unicode symbols
-- [CSS Icons](https://cssicon.space) - Copy &amp; Paste icons in CSS + transition animations!
+- [Copy/Paste Character](http://copypastecharacter.com) - Copy & Paste emojis and unicode symbols
+- [CSS Icons](https://cssicon.space) - Copy & Paste icons in CSS + transition animations!
 - [Entity Lookup](http://entity-lookup.leftlogic.com) - Enter any character(s) and find its corresponding HTML entity code.
 - [heroicons](https://heroicons.com) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Icon Finder](https://www.iconfinder.com) - Millions of graphics for your design projects. Created by independent designers.
@@ -218,15 +190,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Icônes](https://icones.js.org/collection/all) - Over 150,000 open source vector icons.
 - [Tabler Icons](https://tablericons.com) - 4000+ Open source free SVG icons. Highly customizable. No attribution required. For commercial use.
 
-### Proxy as a Service
+### Validation & Parsers
 
-- [CORS Anywhere](https://cors-anywhere.herokuapp.com/) - Proxies any HTTP request through a CORS enabled environment.
-
-### Responsiveness
-
-- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-
-### Validation &amp; Parsers
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
@@ -238,8 +203,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### SSL
 
-- [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org) - SSL configuration generator for various server software and platforms.
+- [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 
 ### Test
 
@@ -247,21 +212,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mozilla Observatory](https://observatory.mozilla.org) - A set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 - [Security Headers by Probely](https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com) - An easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 - [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
-
-## Notable Mentions
-
-- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
-- [Octopus](https://octopus.do) - Lightning-fast visual sitemap builder &amp; website planner.
-- [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
-- [TypeScriptToLua](https://typescripttolua.github.io) - TypeScript to Lua
-
-## The Outside World
-
-### Swag
-
-- [DevSwag](http://devswag.com/)
-- [DevSwag](http://devswag.com/)
-- [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
 
 ## License
 
