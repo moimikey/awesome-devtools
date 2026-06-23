@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs.
 - [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
 - [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
+- [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR file and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing.
 - [Mockium](https://softwium.com/mockium/) - Create test data
