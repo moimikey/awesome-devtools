@@ -88,6 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Image
 
+- [AI Background Remover](https://codequest.work/generator/bg-remover/) - Automatically detect the subject and remove image backgrounds with AI, entirely in the browser.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
