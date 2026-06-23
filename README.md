@@ -68,16 +68,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
-- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs. No signup required.
+- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
-- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing. No signup required.
+- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing.
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
-- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators. No signup required.
+- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
-- [Sovereign Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor. Free, no signup required.
-- [Sovereign Hash Forge](https://ryudi84.github.io/sovereign-tools/tools/hash_forge/) - Generate SHA-256, MD5, and other hashes in the browser. Free, no signup required.
-- [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
+- [Sovereign Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor.
+- [Sovereign Hash Forge](https://ryudi84.github.io/sovereign-tools/tools/hash_forge/) - Generate SHA-256, MD5, and other hashes in the browser.
+- [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
 - [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
 
 ### Image
@@ -134,8 +134,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
-- [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser. Free, no signup required.
-- [Sovereign Timestamp Forge](https://ryudi84.github.io/sovereign-tools/tools/timestamp_forge/) - Convert Unix timestamps to human-readable dates and vice versa. Free, no signup required.
+- [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser.
+- [Sovereign Timestamp Forge](https://ryudi84.github.io/sovereign-tools/tools/timestamp_forge/) - Convert Unix timestamps to human-readable dates and vice versa.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
