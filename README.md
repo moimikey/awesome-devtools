@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
 - [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
+- [Related Repos](https://relatedrepos.com/bookmarklet) - Quickly view alternative repositories while browsing on GitHub. Results are updated daily.
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
 
 ## Tools
@@ -55,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Diffing
 
+- [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
 
@@ -69,6 +71,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
 - [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs.
+- [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
+- [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing.
 - [Mockium](https://softwium.com/mockium/) - Create test data
@@ -127,6 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
+- [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
@@ -135,7 +140,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
 - [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser.
-- [Sovereign Timestamp Forge](https://ryudi84.github.io/sovereign-tools/tools/timestamp_forge/) - Convert Unix timestamps to human-readable dates and vice versa.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
@@ -191,7 +195,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
+- [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
+- [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
 
 ## Security
 
