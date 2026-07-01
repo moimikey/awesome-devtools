@@ -18,6 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
+- [JustInBrowser API Tester](https://www.justinbrowser.com/tools/api-tester) - Test REST and HTTP APIs in your browser with headers, auth, code export, and cURL import.
+
 
 ### Copy/Paste Scripts & Styles
 
@@ -91,6 +93,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
+- [JustInBrowser Image Annotator](https://www.justinbrowser.com/tools/image-annotator) - Annotate screenshots with arrows, text, numbered steps, and blur or pixelate redaction. Runs fully client-side.
+
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
