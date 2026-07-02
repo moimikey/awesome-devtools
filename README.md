@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [Quietbench](https://quietbench.dev) - Free browser-based developer utilities: JSON formatter, regex tester, cron builder, WCAG contrast checker, and API tester. No signup required.
 
 ### Transformation
 
