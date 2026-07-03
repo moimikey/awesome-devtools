@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
+- [JSON to TypeScript Converter](https://aarunyaapps.com/json-to-typescript) - Generate TypeScript interfaces and Zod schemas from any JSON payload. Supports nested objects and arrays. 100% client-side.
 - [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
@@ -203,6 +204,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
 
 ## Security
+
+- [.env Deep Sanitizer](https://aarunyaapps.com/env-sanitizer) - Redact secrets from .env, YAML, JSON, and TypeScript config files. Detects API keys, tokens, database URLs, and 15+ secret patterns. 100% client-side — zero uploads.
 
 ### SSL
 
