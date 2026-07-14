@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Diffing
 
 - [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
+- [CodeQuest Diff Checker](https://codequest.work/generator/diff-checker/) - Compare code or text differences in the browser with character-level highlighting of added, changed, and removed lines. Detects full-width spaces. 100% client-side, no signup.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
 
