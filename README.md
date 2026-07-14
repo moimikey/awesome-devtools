@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
 - [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
+- [CodeQuest Gradient Generator](https://codequest.work/generator/gradient-generator/) - Build linear, radial, and conic CSS gradients from a palette of 273 Japanese traditional colors, fine-tune stops, and export CSS, Tailwind, or PNG. 100% client-side.
 - [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs.
 - [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
 - [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
