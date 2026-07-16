@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
 - [Related Repos](https://relatedrepos.com/bookmarklet) - Quickly view alternative repositories while browsing on GitHub. Results are updated daily.
 - [Rulers Guides](http://mark-rolich.github.io/RulersGuides.js/) - A JavaScript library which enables Photoshop-like rulers and guides interface on a web page.
+- [Brevio](https://brevio.pro) - Free in-browser dev utilities (JSON formatter, JWT decoder, base64, hash, UUID, regex, diff, and more). Everything runs client-side — no upload, no account, works offline.
 
 ## Tools
 
