@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
-- [httpbin](http://httpbin.org/) - HTTP Request & Response service.
+- [httpbin] - HTTP Request & Response service. Rejected status code: 503 Service Unavailable
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
@@ -163,7 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CDN
 
-- [JSDelivr](https://www.jsdelivr.com) - A free CDN for open source projects.
+- [JSDelivr]() - A free CDN for open source projects. Rejected status code: 503 Service Unavailable
 - [Skypack](https://www.skypack.dev) - Load optimized npm packages with no install and no build tools.
 - [unpkg](https://www.unpkg.com) - Fast, global content delivery network for everything on npm.
 
@@ -174,7 +174,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CSS Inliners
 
 - [Campaign Monitor](https://www.campaignmonitor.com/resources/tools/css-inliner) - Inline your CSS for HTML email.
-- [MailChimp](http://templates.mailchimp.com/resources/inline-css) - Inline CSS styles for HTML email templates.
+- [MailChimp]() - Inline CSS styles for HTML email templates. Network error: Connection reset by peer (os error 104)
 
 ### Documentation
 
