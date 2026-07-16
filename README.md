@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [ThisDevTool Regex Tester](https://thisdevtool.com/tools/regex-tester) - Live JavaScript regex tester with real-time match highlighting, flags, and capture groups. 100% client-side.
 
 ### Transformation
 
