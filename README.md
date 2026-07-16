@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Babel Time Travel](https://babel-time-travel.boopathi.in/) - Travel in time as babel transpiles.
 - [DebugJS](http://debugjs.com/) - Debug your JavaScript in the browser (lol?)
-- [httpbin](http://httpbin.org/) - HTTP Request & Response service.
+- [httpbin] - HTTP Request & Response service. - 503
 - [JavaScript Visualizer 9000](https://www.jsv9000.app) - Loupe-inspired JavaScript execution visualizer
 - [JSONBIN.io](https://jsonbin.io/quick-store) - Custom, mock JSON API
 - [Loupe](http://latentflip.com/loupe/) - Similar in goal to SlowmoJS, a JavaScript call stack visualizer.
@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
 - [ESM](https://code.esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
-- [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
+- [JSBin] - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass - 503
 - [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
 - [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev) - Explore SQLite file format internals
@@ -164,7 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CDN
 
-- [JSDelivr](https://www.jsdelivr.com) - A free CDN for open source projects.
+- [JSDelivr] - A free CDN for open source projects. 503
 - [Skypack](https://www.skypack.dev) - Load optimized npm packages with no install and no build tools.
 - [unpkg](https://www.unpkg.com) - Fast, global content delivery network for everything on npm.
 
