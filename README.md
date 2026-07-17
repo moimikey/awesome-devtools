@@ -129,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
+- [Bracketly](https://bracketly.pages.dev) - Free developer tools: JSON formatter, Base64, JWT decoder, hash generator (MD5/SHA), URL encoder, color converter, regex tester, and more. 100% client-side, nothing sent to servers.
 - [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
