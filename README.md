@@ -155,6 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [API Status Check](https://www.apistatuscheck.com) - Real-time status monitoring for 540+ APIs and services including AWS, Stripe, GitHub, and OpenAI.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
+- [Website Cost Data](https://projectcostestimator.com/api-docs) - Free CC BY 4.0 JSON benchmarks for web-project costs (build, hosting, TCO, hourly rates) by platform and market. No key needed.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
 ### Browser Information
