@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
+- [DiffTheseTwo](https://diffthesetwo.com) - Compare two blocks of text line by line and word by word, with changed words marked inside edited lines.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
 
 ### File Sharing
@@ -92,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
+- [SquishMyPic](https://squishmypic.com) - Compress and resize images in the browser, with a live before/after size comparison.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
@@ -124,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [TestThisRegex](https://testthisregex.com) - JavaScript regex matching with live highlighting, capture groups, and named groups broken out.
 
 ### Transformation
 
@@ -132,9 +135,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
 - [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [CronSaidWhat](https://cronsaidwhat.com) - Explain a cron expression in plain English and preview its next run times, in UTC and your own timezone.
 - [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
+- [EpochToHuman](https://epochtohuman.com) - Convert a Unix timestamp to a readable date, auto-detecting seconds, milliseconds, microseconds, or nanoseconds.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
+- [FormatThisJSON](https://formatthisjson.com) - Format and validate JSON locally, with syntax errors reported at the exact line and column.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
@@ -159,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Browser Information
 
+- [MyIPRightNow](https://myiprightnow.com) - Your public IP address with network, location, and connection details. Also available as JSON at `/api/ip`.
 - [What's My Browser?](http://www.whatsmybrowser.org/) - Detailed, shareable information about your web browser.
 
 ### CDN
