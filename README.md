@@ -85,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
 - [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
+- [JieBang Tools](https://www.jiebang.site) - 170+ free browser-based developer tools (JSON formatter, QR code generator, Base64 encoder, Cron parser, image converter). All client-side, no data upload.
 
 ### Image
 
