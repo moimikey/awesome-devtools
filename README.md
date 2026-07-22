@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ceaser](http://matthewlein.com/ceaser/) - CSS easing animation tool with cubic-bezier curves.
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
+- [Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients with a visual editor and copy code instantly.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) - Collection of responsive web design patterns.
 - [transition.css](https://www.transition.style) - Drop-in CSS transitions
 - [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
