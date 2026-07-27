@@ -68,22 +68,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
-- [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options. 100% client-side processing.
-- [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline, no data sent to servers.
-- [ColorForge](https://simplereally.github.io/color-forge/) - Generate color palettes with real-time preview, CSS/SCSS export, and shareable URLs.
-- [CORS Header Generator](https://puredevtools.tools/cors-header-generator/) - Generate CORS headers for your API with visual configuration. 100% client-side, no data sent to server.
-- [CSS Filter Generator](https://puredevtools.tools/css-filter-generator/) - Compose CSS filter effects (blur, brightness, contrast, grayscale) with real-time preview. Runs entirely in browser.
 - [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR file and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
-- [MetaForge](https://simplereally.github.io/meta-forge/) - Preview meta tags for Google, Facebook, and Twitter before publishing.
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
-- [PassForge](https://simplereally.github.io/pass-forge/) - Generate secure passwords with customizable options and strength indicators.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
-- [Sovereign Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor.
-- [Sovereign Hash Forge](https://ryudi84.github.io/sovereign-tools/tools/hash_forge/) - Generate SHA-256, MD5, and other hashes in the browser.
-- [Sovereign Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
-- [Toolshref ZOD Schema Generator](https://toolshref.com/json-to-zod-schema-generator/) - Generate JSON to TypeScript Zod validation schemas instantly.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
 
 ### Image
@@ -129,19 +118,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
-- [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing, never sends tokens to servers.
-- [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely. Perfect for handling query parameters and API endpoints.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
-- [CSV to JSON & JSON to CSV](https://devtoollab.com/tools/csv-json-converter) - Convert between CSV and JSON formats
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
-- [JSON to XML Converter](https://devtoollab.com/tools/json-to-xml) - Convert JSON data to XML format with proper formatting and structure
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
-- [Sovereign Base64 Forge](https://ryudi84.github.io/sovereign-tools/tools/base64_forge/) - Encode and decode Base64 strings instantly in the browser.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
 - [SWC](https://swc.rs/playground) - compile JS/TS files using modern JS features and outputs valid code that is supported by all major browsers.
 - [Terser](https://try.terser.org/) - JavaScript parser, mangler and compressor toolkit for ES6+
