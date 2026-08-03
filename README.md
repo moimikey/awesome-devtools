@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
+- [Nutilz Cron Builder](https://nutilz.com/cron-builder) - Visually build and validate cron expressions with presets, a plain-English schedule description, and a preview of the next 10 run times.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
 
