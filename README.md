@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
 - [Octopus](https://octopus.do) - Lightning-fast visual sitemap builder & website planner.
 - [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
+- [flow-chart.io](https://flow-chart.io) - AI-powered diagram generator that produces fully editable C4, BPMN, cloud architecture, and ERD diagrams as a live scene graph.
 
 ### Diffing
 
