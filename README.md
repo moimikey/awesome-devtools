@@ -153,6 +153,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Cheat Sheets
 
+- [HTTP Status Codes](https://nutilz.com/http-status-codes) - Searchable reference for all standard HTTP response codes (1xx-5xx) with plain-English descriptions, free and no signup.
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org) - A concise collection of high value information on specific application security topics.
 
 ### CSS Inliners
