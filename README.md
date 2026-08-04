@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+- [TryDevSnip JSON Formatter](https://trydevsnip.com/json-formatter/) - Format/validate JSON in the browser — paste stays in the tab, no upload for processing.
 
 ### CSS
 
@@ -84,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+- [TryQuickImg HEIC to JPG](https://tryquickimg.com/heic-to-jpg/) - Convert HEIC/HEIF to JPG in the browser — file stays on-device, no signup.
 
 ### Performance
 
