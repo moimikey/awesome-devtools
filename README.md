@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### CSS
 
+- [Adaptive Matrix Playground](https://moresyl.github.io/postcss-adaptive-matrix/docs/playground) - Compile responsive CSS across multiple design canvases directly in the browser.
 - [Ceaser](http://matthewlein.com/ceaser/) - CSS easing animation tool with cubic-bezier curves.
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) - Collection of responsive web design patterns.
