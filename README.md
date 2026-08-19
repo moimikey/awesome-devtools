@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### API Clients
 
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
+- [Govard](https://github.com/ddtcorex/govard) - Go-based local development orchestrator for PHP and web projects with Docker orchestration, automatic framework discovery, Xdebug integration, and local HTTPS.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
 
 ### Copy/Paste Scripts & Styles
