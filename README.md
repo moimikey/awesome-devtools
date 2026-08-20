@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Image
 
+- [AI to SVG Converter](https://artboardlab.com/tools/ai-to-svg/) - Convert Adobe Illustrator .ai files to SVG in the browser. Runs fully client-side, so the file is never uploaded.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
