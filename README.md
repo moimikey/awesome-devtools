@@ -74,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
+- [ULID Generator](https://singhajit.com/tools/ulid-generator/) Generate ULIDs in browser. Bulk up to 100. Uses Web Crypto CSPRNG.
 
 ### Image
 
@@ -185,6 +186,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
 - [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
+- [TOML Validator](https://singhajit.com/tools/toml-validator/) - Validate TOML syntax with error line and column numbers, format and beautify, and convert to JSON. Client-side processing.
 
 ## Security
 
