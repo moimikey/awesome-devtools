@@ -180,6 +180,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Validation & Parsers
 
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
+- [AppLaunch Compose Checker](https://applaunch.org/tools/docker-compose-checker) - Check Docker Compose YAML for risky production defaults, exposed ports, likely literal secrets, mutable tags, missing healthchecks, limits, and persistence. Runs locally in the browser.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
