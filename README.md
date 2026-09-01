@@ -184,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
-- [Repo Agent Kit AGENTS.md Checker](https://repoagentkit.com/audit) - Privately validate AGENTS.md quality and compare instruction-file drift in your browser.
+- [Repo Agent Kit AGENTS.md Checker](https://repoagentkit.com/audit?utm_source=awesome-devtools&utm_medium=directory&utm_campaign=agents-md-checker) - Privately validate AGENTS.md quality and compare instruction-file drift in your browser.
 - [YAML Validator](https://puredevtools.tools/yaml-validator/) - Validate YAML syntax with error line numbers, format with custom indentation, and convert to JSON. Client-side processing.
 
 ## Security
