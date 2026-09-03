@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### API Clients
 
+- [APIPulse](https://api.wtoolskit.com) - Free web-based API testing and debugging tool with CORS proxy, request history, and assertions. No signup.
 - [Hoppscotch](https://hoppscotch.io) - A lightweight, web-based API development suite.
 - [Reqbin](https://reqbin.com) - REST & SOAP API Online Testing Tool
 
@@ -92,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Playgrounds
 
 - [codepen](http://codepen.io/pen) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+- [CodeJet](https://code.wtoolskit.com) - Free online code editor for HTML, CSS, JavaScript, and TypeScript with instant live preview and Prettier formatting.
 - [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
 - [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
