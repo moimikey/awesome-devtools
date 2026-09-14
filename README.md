@@ -112,6 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
+- [RegexTester.dev](https://regextester.dev) - PCRE2/RE2/.NET/Python/Go/Java/Rust regex matching via real WASM engines.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
 
 ### Transformation
