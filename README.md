@@ -199,6 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mozilla Observatory](https://observatory.mozilla.org) - A set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 - [Security Headers by Probely](https://securityheaders.com/?q=https%3A%2F%2Fsecurityheaders.com) - An easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 - [Web Check](https://web-check.xyz) - All-in-one OSINT tool for analysing any website.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## License
 
