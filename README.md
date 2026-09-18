@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### APIs
 
 - [API Status Check](https://www.apistatuscheck.com) - Real-time status monitoring for 540+ APIs and services including AWS, Stripe, GitHub, and OpenAI.
+- [NextReset](https://nextreset.ai/) - Source-linked Codex reset history and official AI-service incident updates, with a browser-local personal timer.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 - [Zippopotamus](http://zippopotam.us/) - Zipcode to Geo
 
