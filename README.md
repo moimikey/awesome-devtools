@@ -119,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [DevTransform](https://devtransform-hub.vercel.app/tools/word-to-pdf) - Convert Word (.docx, .doc), RTF, and text documents to PDF in the browser with zero server uploads.
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
