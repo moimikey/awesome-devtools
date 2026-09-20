@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
+- [JWT Decoder](https://brewcoder.com/jwt-decoder) - Decode a token's header, payload and signature, and verify HS256/384/512 locally. The token never leaves the browser.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
 - [Sucrase](https://sucrase.io) - Super-fast Babel alternative
@@ -181,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+- [JSON Schema Validator](https://brewcoder.com/json-schema-validator) - Validate JSON against a schema in the browser, reporting the path of each violation. Client-side processing.
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
