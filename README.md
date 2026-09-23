@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
+- [README → Landing](https://boltdoesthis.github.io/readme-to-landing/) - Free client-side README-to-landing-page generator; paste a README or product blurb and download clean single-page HTML. No account or backend.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
 
 ### Image
