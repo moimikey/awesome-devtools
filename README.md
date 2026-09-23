@@ -79,6 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
+- [Image Metadata Remover](https://www.codeutil.io/tools/image-metadata-remover) - Strip GPS, camera, AI generation and C2PA metadata from PNG, JPEG and WebP without re-encoding the image. 100% client-side.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
@@ -122,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
+- [jq Playground](https://www.codeutil.io/tools/jq-playground) - Run real jq 1.8 filters against JSON in the browser, compiled to WebAssembly. 100% client-side.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
