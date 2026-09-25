@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [asciiflow](https://asciiflow.com) - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams.
 - [dbdiagram](https://dbdiagram.io/d) - Draw Entity-Relationship Diagrams, Painlessly.
 - [dot-to-ascii](https://dot-to-ascii.ggerganov.com) - Graphviz to ASCII converter using Graph::Easy.
+- [Drawbly](https://drawbly.com) - Draw rough technical diagrams with freehand arrows and editable text, then export PNGs without signing in; free exports include a Drawbly credit.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard.
 - [JSONCrack](https://jsoncrack.com/editor) - Visualize CSV/JSON/TOML/XML/YAML instantly into graphs.
 - [Markmap](https://markmap.js.org/repl) - Visualize markdown as a feature-rich mindmaps.
