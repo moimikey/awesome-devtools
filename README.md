@@ -119,6 +119,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [cURL to Code](https://tools.bubble.ro/tools/curl-to-code) - Convert a curl command into JavaScript (fetch/axios), Python, PHP, Java, Rust, Ruby, C#, PowerShell and more. Runs in the browser.
+- [Docker Run to Compose](https://tools.bubble.ro/tools/docker-run-to-compose) - Paste `docker run` commands and get an equivalent docker-compose.yml. Runs in the browser.
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
@@ -181,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+- [JWT Decoder](https://tools.bubble.ro/tools/jwt-tool) - Decode a JWT's header and payload with expiry status, or generate signed test tokens and signing keys. Runs in the browser.
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
