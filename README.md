@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+- [Fivenines Cron Expression Generator](https://fivenines.io/tools/cron-expression-generator) - Free visual cron expression builder and validator with readable descriptions and upcoming runs.
 
 ### CSS
 
