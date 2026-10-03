@@ -90,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Perflink](https://perf.link) - JS benchmarks
 
 ### Playgrounds
+- [Formaty](https://formaty.dev) - Local-first, browser-only workspace to format, convert, compare, and query JSON, XML, YAML, TOML, and CSV, and generate SQL, types, and schemas.
 
 - [codepen](http://codepen.io/pen) - Social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 - [CodeSandbox](https://codesandbox.io/s/new) - Online code editor and sandbox
