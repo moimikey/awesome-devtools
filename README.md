@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
 
 ### Image
+- [Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer) - Resize JPG, PNG, and WebP images locally in your browser
 
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
