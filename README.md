@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image
 
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
+- [CrunchyPic](https://crunchypic.com/compress-image/) - Compress images to an exact KB size in the browser, no signup
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
 - [PNG-to-SVG](https://png-to-svg.com) - Free conversion from JPG or PNG images To vectorized SVG.
