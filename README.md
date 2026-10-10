@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
+- [Base64 Encoder](https://tools.pikvue.com/tools/base64-encoder.html) - Encode and decode Base64 text in the browser. Client-side only, nothing is uploaded.
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
