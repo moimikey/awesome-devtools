@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
+- [Formgong HTML Form Generator](https://formgong.com/en/tools/html-form-generator/) - Build a plain HTML form (labels, required fields, spam honeypot, no framework classes) and copy the code. No sign-up.
 - [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR file and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Mockium](https://softwium.com/mockium/) - Create test data
