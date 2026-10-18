@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
+- [JSON Compare](https://vibecoderjournal.com/tools/json-compare/) - Visual side-by-side JSON diffing tool with semantic key matching and tree-view inspection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Pure CSS Apple](http://purecssapple.com/) - Pure CSS Apple devices with scrollable media
 - [Readme](https://nxt-readme.vercel.app) - All in one tool to quickly generate a readme for your project or github profile.
