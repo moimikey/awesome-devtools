@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSON-to-Chart](https://jsontochart.com) - Create beautiful charts from JSON data in your browser.
 - [nomnoml](https://nomnoml.com) - A tool for drawing UML diagrams based on a simple syntax.
 - [Sequence Diagram](https://sequencediagram.org) - An online tool / software for creating UML sequence diagrams.
+- [Mermaid Timeline Editor](https://vibecoderjournal.com/tools/mermaid-timeline-editor/) - In-browser editor with live rendering and SVG/PNG export for Mermaid timeline diagrams.
 
 ### Diffing
 
