@@ -144,6 +144,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Browser Information
 
 - [What's My Browser?](http://www.whatsmybrowser.org/) - Detailed, shareable information about your web browser.
+- [17NAS IPv6 Test](https://17nas.com/ipv6-test.php) - Free IPv6 connectivity test with IPv4/IPv6 addresses, latency and ISP info.
+- [17NAS NAT Test](https://17nas.com/nat-test.php) - Free NAT type test for gaming, VoIP and P2P connectivity.
+- [17NAS Port Check](https://17nas.com/port-check.php) - Free online TCP port checker.
 
 ### CDN
 
