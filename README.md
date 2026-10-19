@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+- [Tool Pantry](https://toolpantry.app/image-compressor) - Compress and resize JPG, PNG and WebP in the browser; the file never leaves the device.
 
 ### Performance
 
