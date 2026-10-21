@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions by Cronitor
 - [Devtools Tips](https://devtoolstips.org) - Copy-and-paste'able collection of useful cross-browser DevTools snippets.
+- [DevHolster Cron Parser](https://devholster.com/testers/cron-parser/) - Explains crontab, Spring and Quartz expressions in plain English, lists the next runs in local time and UTC, and flags DST and day-field pitfalls
 
 ### CSS
 
