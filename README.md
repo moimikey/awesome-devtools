@@ -109,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Regex
 
+- [A2Z Regex Tester](https://a2z.tools/regex-tester) - JavaScript regex matching with capture groups and a replace preview, run in a sandboxed Web Worker.
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
