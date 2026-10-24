@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
+- [Formaty JSON Diff](https://formaty.dev/json-diff) - Order-insensitive diff of two JSON documents. Runs in the browser, nothing uploaded.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
 
 ### File Sharing
