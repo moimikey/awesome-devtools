@@ -192,6 +192,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org) - SSL configuration generator for various server software and platforms.
 - [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
+- [SSL Certificate Checker](https://www.webtoolbench.com/ssl-certificate-checker) - Checks any site's certificate in the browser: expiry date, issuer, signature algorithm and every hostname it covers.
 
 ### Test
 
