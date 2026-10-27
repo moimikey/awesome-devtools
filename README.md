@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
+- [GitHubCard](https://githubcard.com/) - Generate GitHub profile and repository cards from public GitHub data, then export SVG/PNG or embed them live in a README. No signup needed to create a card.
 - [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR file and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Mockium](https://softwium.com/mockium/) - Create test data
