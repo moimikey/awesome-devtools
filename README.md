@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Squoosh](https://squoosh.app/) - Compress and optimize images in browser
 - [SVG-to-backgroundImage](https://csspro.com/svg-to-background-image-css) - Convert your SVG files into CSS url (data URIs) by encoding it.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Try [SVGO](https://github.com/svg/svgo) (SVG Optimizer) in the browser!
+- [Zippic](https://zippic.app) - Compress and convert JPG, PNG, WebP, AVIF, GIF and RAW images in the browser with WebAssembly. Batch, crop, resize and watermark, no uploads or sign-up.
 
 ### Performance
 
