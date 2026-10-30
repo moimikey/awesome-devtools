@@ -72,6 +72,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
+- [ODLUCK Random Color Generator](https://odluck.com/en/random-color-generator) - Free browser random color / hex palette generator; runs locally, no sign-up.
+- [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists in the browser.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
 - [UUID Generator](https://freedevtool.org/uuid-generator) - Generate UUID v1, v4, v5, or v7 (RFC 9562) in browser. Bulk generation up to 1,000. Uses Web Crypto CSPRNG.
 
