@@ -59,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
+- [OpenAPI Breaking Change Checker](https://martingruner.com/tools/openapi-breaking-change-checker) - Compare Swagger 2.0 and OpenAPI 3.0/3.1 JSON or YAML locally in the browser for likely breaking API changes.
 
 ### File Sharing
 
