@@ -101,6 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev) - Explore SQLite file format internals
 - [SQLite Playground](https://codapi.org/sqlite) - SQLite sandbox
+- [SyntaxFiddle Cron Tester](https://syntaxfiddle.com/cron/) - Parse, translate to plain English, and simulate cron schedules across Unix, Quartz, AWS EventBridge, and Cloudflare dialects. 100% client-side.
 
 ### Presentation
 
