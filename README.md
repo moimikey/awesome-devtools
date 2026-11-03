@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ceaser](http://matthewlein.com/ceaser/) - CSS easing animation tool with cubic-bezier curves.
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
+- [CSS Grid Generator](https://www.webdevutilities.com/css-grid-generator) - Build CSS grid layouts visually, including responsive auto-fit grids and items that span cells, and copy the CSS.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) - Collection of responsive web design patterns.
 - [transition.css](https://www.transition.style) - Drop-in CSS transitions
 - [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
@@ -119,10 +120,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AST Explorer](http://astexplorer.net/) - Parse JS to an explorable AST tree via acorn, babel, babylon, espree, esprima, recast, shift, and typescript.
 - [Babel REPL](https://babeljs.io/en/repl) - The compiler for next generation JavaScript
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly
+- [cURL to fetch](https://www.webdevutilities.com/curl-to-fetch) - Convert curl commands, including DevTools "Copy as cURL" output, to JavaScript fetch() code.
 - [EpochPilot](https://epochpilot.com) - Convert Unix timestamps, compare timezones, and parse cron expressions. 100% client-side.
 - [fixmyjs](http://goatslacker.github.io/fixmyjs.com/) - Automatically fix your JS, driven by JSHint.
 - [JavaScript Deobfuscator](https://deobfuscate.io) - A simple but powerful deobfuscator to remove common JavaScript obfuscation techniques.
 - [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
+- [JSON to TypeScript](https://www.webdevutilities.com/json-to-typescript) - Generate TypeScript interfaces from sample JSON, with a type for each nested object and optional fields inferred from arrays.
 - [JSONFormatOnline](https://jsonformatonline.com) - Format, validate and convert JSON locally in the browser, no data sent to servers.
 - [Markdown to HTML](https://markdowntohtml.com) - Paste or type your markdown and see it rendered as HTML. Download or copy the resulting HTML.
 - [Markdown Tools](https://markdowntools.com) - Tools to convert Markdown to/from a number of formats. E.g. Html to Markdown, or a CSV to a Markdown table.
