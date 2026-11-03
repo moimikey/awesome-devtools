@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Image
 
+- [KaijuConverter](https://kaijuconverter.com) - Convert 201+ file formats (HEIC, WebP, AVIF, TIFF, BMP, PDF, SVG) and run 54 precision Studio tools (`<=20KB` byte-cap compression, 300 DPI CM/MM resize, 12-language OCR) in browser or via MCP Server.
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/spa) - Convert images into ANSI-escaped color ASCII art.
 - [Favic-o-matic](http://www.favicomatic.com/) - Literally generates every favicon neccessary + markup.
 - [JPEG.rocks](https://jpeg.rocks) - Privacy-aware JPEG optimizer
