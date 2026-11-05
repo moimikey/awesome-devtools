@@ -101,6 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
 - [SQLite File Format Viewer](https://sqlite-internal.pages.dev) - Explore SQLite file format internals
 - [SQLite Playground](https://codapi.org/sqlite) - SQLite sandbox
+- [TailwindFlex Playground](https://tailwindflex.com/playground) - Tailwind CSS playground with a live preview, a code editor, custom config and a v3.4/v4 switch.
 
 ### Presentation
 
