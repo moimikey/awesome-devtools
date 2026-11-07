@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SQLite Playground](https://codapi.org/sqlite) - SQLite sandbox
 
 ### Presentation
+- [brownie.tools Code to Image](https://brownie.tools/developer-tools/code-to-image/) - Create styled images of code snippets with PNG, JPG, and SVG export.
 
 - [Ray.so](https://ray.so) - Create beautiful images of code snippets.
 - [snapify](https://snappify.com/editor) - Snappify enables you to create stunning presentations, with first-class support for code snippets.
