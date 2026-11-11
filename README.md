@@ -110,6 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Regex
 
 - [Debuggex](https://www.debuggex.com/) - PCRE/Python/JavaScript regex matching.
+- [DevUtility Regex Tester](https://devutility-kit.pages.dev/tools/regex-tester/) - JavaScript regex matching with group highlighting, a replace preview and a time limit for runaway patterns.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
