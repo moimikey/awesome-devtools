@@ -28,7 +28,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ceaser](http://matthewlein.com/ceaser/) - CSS easing animation tool with cubic-bezier curves.
 - [Clippy](https://bennettfeely.com/clippy) - CSS clip-path maker and editor.
-- [Color Contrast Checker](https://www.testmuai.com/free-online-tools/color-contrast-checker/) - Check WCAG AA and AAA contrast ratios for text and background colors.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) - Collection of responsive web design patterns.
 - [transition.css](https://www.transition.style) - Drop-in CSS transitions
 - [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
@@ -180,6 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Validation & Parsers
 
+- [Accessibility Testing Agent by TestMu AI](https://www.testmuai.com/accessibility-testing/) - Scan websites and native iOS and Android apps for WCAG 2.2, ADA, Section 508 and EAA issues.
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
