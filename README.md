@@ -179,6 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Validation & Parsers
 
+- [Accessibility Testing Agent by TestMu AI](https://www.testmuai.com/accessibility-testing/) - Scan websites and native iOS and Android apps for WCAG 2.2, ADA, Section 508 and EAA issues.
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
