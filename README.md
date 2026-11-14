@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+- [GitHub CODEOWNERS Tester](https://ionwarp.com/for/github-codeowners) - Paste a CODEOWNERS file and a pull request's paths to see which line wins for each path, who GitHub asks to review, and which lines GitHub skips.
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
