@@ -59,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ApiNotes](https://apinotes.io/openapi-diff) - Compare two OpenAPI 3.x & Swagger 2.0 specifications side by side. Detect breaking changes, added/removed endpoints, and parameter diffs.
 - [Diff Text](https://difftext.com/) - Quickly highlight differences in plain text, code, or JSON files.
 - [JSONDiffPatch](https://benjamine.github.io/jsondiffpatch) - Run a visual or non-visual diff on two JSON blobs.
+- [Zelobiz Diff Checker](https://zelobiz.com/diff-checker/) - Side-by-side and unified text and code comparison tool with inline character-level difference highlighting.
 
 ### File Sharing
 
@@ -113,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [Zelobiz Regex Tester](https://zelobiz.com/regex-tester/) - Real-time regular expression tester and debugger with syntax breakdown, token highlights, and regex cheatsheet.
 
 ### Transformation
 
@@ -192,6 +194,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org) - SSL configuration generator for various server software and platforms.
 - [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
+- [Zelobiz SSL Certificate Inspector](https://zelobiz.com/ssl-checker/) - Free online TLS/SSL certificate analyzer inspecting expiration dates, cipher suites, SANs, and root issuer chains.
 
 ### Test
 
