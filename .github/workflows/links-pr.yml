@@ -1,0 +1,17 @@
+name: Dead Links (Fail Fast)
+
+on:
+  pull_request_target:
+
+jobs:
+  check-links-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --root-dir . --no-progress 'README.md'

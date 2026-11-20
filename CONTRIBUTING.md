@@ -1,3 +1,7 @@
 # Contribution Notes
 
-Please ensure that the tool is solely web-based freeware and does not require additional steps such as sign up, download, or installation for use
+To keep awesome-devtools instantly accessible for everyone, all tools must be:
+
+- **Browser-based** — no downloads or native app installs
+- **Direct link** — goes straight to the tool (not a multi-tool landing page)
+- **100% free** — no signups, trials, paywalls, or usage limits
