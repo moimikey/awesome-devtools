@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ellie](https://ellie-app.com/) - The Elm Live Editor
 - [ES.nextBin](http://esnextb.in/) - Like RequireBin but ES2015
 - [ESM](https://code.esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+- [iLoveDevTool Python Playground](https://www.ilovedevtool.com/en-US/tools/python-playground) - Python 3.8–3.12 playground with NumPy, Pandas, Matplotlib and scikit-learn, pip installs from PyPI, interactive stdin for input(), multi-file projects and share links. Plots render in the output; the first run loads the runtime for a few seconds.
 - [JSBin](http://jsbin.com/) - JS/Coffee/Babel/Babel/Live/JSX/HTML/Markdown/Pug/CSS/Stylus/LESS/Sass
 - [JSFiddle](http://jsfiddle.net/) - JS/ES3/Coffee/HTML/CSS/Sass
 - [playcode.io](https://playcode.io/new) - JS/Typescript/Coffee/LiveScript/Babel/CSS/Sass/LESS/Stylus/HTML/Pug
