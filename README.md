@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ada URL Parser](https://playground.ada-url.com/?url=torrent://blog/post/1?source|rest=rss) - WHATWG-compliant and fast URL parser written in modern C++, online.
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+- [DevOmniTools JWT & JWS Decoder](https://www.devomnitools.com/en/tools/jwt-decoder/) - Decode and inspect RFC 7519 JWT and RFC 7515 JWS tokens offline without secret keys. 100% private in-browser parsing.
 - [numverify](https://numverify.com/) - Validate phone numbers from over 200 countries.
 - [OpenAPI Validator](https://apinotes.io/openapi-validator) - Validate OpenAPI 3.1, 3.0 & Swagger 2.0 specifications. Paste JSON/YAML, upload files, or fetch from URL.
 - [Pythonium](https://pythonium.net/linter) - Validate Python code.
