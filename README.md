@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Generators
 
+- [Cloud-init Generator](https://nocthost.com/tools/cloud-init-generator) - Build a cloud-init user-data file for a new Linux server (users, SSH keys, packages, firewall) in the browser.
 - [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR file and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
 - [Mockium](https://softwium.com/mockium/) - Create test data
