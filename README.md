@@ -193,6 +193,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### SSL
 
 - [GetHTTPSForFree!](https://gethttpsforfree.com/) - Genuinely FREE SSL certificates (courtesy of [Let's Encrypt](https://letsencrypt.org/))
+- [MyIPScan SSL Certificate Checker](https://myipscan.net/tools/ssl-certificate-checker/) - Looks up a domain's certificates in public certificate transparency logs: issuer, expiry date, SANs and hostname match.
 - [Self-Signed Certificate Generator](http://selfsignedcertificate.com/) - A self-signed certificate generator.
 
 ### Test
