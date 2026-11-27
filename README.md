@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR file and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection.
 - [JSONGenerator](https://www.jsongenerator.io) - Create random JSON data
+- [llms.txt Generator](https://saascity.io/free-tools/llms-txt-generator) - Generate a standards-compliant llms.txt file for AI crawlers and coding agents directly in the browser.
 - [Mockium](https://softwium.com/mockium/) - Create test data
 - [NGINXConfig](https://www.digitalocean.com/community/tools/nginx) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [Pictera](https://pictera.co) - Generate beautiful Open Graph images with no design skills required.
