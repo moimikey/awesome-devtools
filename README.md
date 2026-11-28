@@ -87,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Performance
 
+- [Ceshousu Polling Rate Test](https://ceshousu.com/en/polling-rate-test/) - Measure browser-visible mouse polling rates (125-8000 Hz) via PointerEvent.getCoalescedEvents() with interval median and P90-P10 jitter telemetry.
 - [Perflink](https://perf.link) - JS benchmarks
 
 ### Playgrounds
